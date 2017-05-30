@@ -236,8 +236,6 @@ from json import *
 def crawtest(step,proxy,isproxy):
 	threadname = "线程" + threading.currentThread().getName()
 	url = []
-	english_stations = myutil.readStations('mymod/stations_english.py')
-	english_stations = dict(english_stations)
 	lock.acquire()
 	urlquery = list(db.url.find({"status":"no"}).limit(step))
 	for i in range(0,step):

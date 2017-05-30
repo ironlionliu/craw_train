@@ -12,9 +12,10 @@ class StableIP():
 		self.ipsUrl = ipsUrl
 		self.temp = []
 		self.result = []
+		self.lock = threading.Lock()
 		'''
 		self.proxies = []
-		self.lock = threading.Lock()
+		
 
 
 	def getIPs(self,filename):
