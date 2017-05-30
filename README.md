@@ -6,3 +6,6 @@ git clone git@github.com:ironlionliu/craw_train.git
 
 @于佳龙：
 你需要在代码中找到“@于佳龙”，修改对应部分的代码来处理写入数据库的内容，写入哪些字段信息，json已经解析好了，数据格式也在注释中，自行调试
+
+
+test git1
