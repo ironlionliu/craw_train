@@ -273,21 +273,38 @@ def craw(step, proxy, urlquery, isproxy):
 				#
 				#有车次
                 if len(result['data']['s2sBeanList']):
-                    print(urlquery[i]["url"])
-                    for train in range(0,len(result['data']['s2sBeanList'])):
-                        print(result['data']['s2sBeanList'][train]['seats'])
-                        print(result['data']['s2sBeanList'][train]['trainNo'])
-						#train_data = ?????@@@于佳龙
-						#爬取后的数据处理
-						#db.trainmap.insert_one(train_data)
-						#db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"hasdata"}},\
-						#upsert=False, multi=False)
-                    print(threadname+"@@@@200")
+                    # print(urlquery[i]["url"])
+                    ffor train in range(0,len(result['data']['s2sBeanList'])):
+                        num=result['data']['s2sBeanList'][train]["trainNo"]
+                        dptstation=result['data']['s2sBeanList'][train]['dptStationName']
+                        arrstation=result['data']['s2sBeanList'][train]['arrStationName']
+                        startstation=result['data']['s2sBeanList'][train]['startStationName']
+                        endstation=result['data']['s2sBeanList'][train]['endStationName']
+                        dpttime=result['data']['s2sBeanList'][train]['dptTime']
+                        arrtime=result['data']['s2sBeanList'][train]['arrTime']
+                        daydiff=result['data']['s2sBeanList'][train]['dayDifference']
+                        interval=result['data']['s2sBeanList'][train]['extraBeanMap']['interval']
+                        intervalmiles=result['data']['s2sBeanList'][train]['extraBeanMap']['intervalMiles']
+                        # print(dpttime,arrtime,daydiff,interval,intervalmiles)
+
+                        # db.trainmap.insert_one()
+                        seatdic={}
+                        for seat in result['data']['s2sBeanList'][train]['seats'].keys():                        
+                            price=result['data']['s2sBeanList'][train]['seats'][seat]['price']
+                            seatdic[seat]=price
+                        dbdata={"num":num,"dptstation":dptstation,"arrstation":arrstation,"start":startstation,\
+                        "end":endstation,"dpttime":dpttime,"arrtime":arrtime,"daydiff":daydiff,"interval":interval,\
+                        "intervalmiles":intervalmiles,"seats":seatdic}
+                        db.trainmap.insert_one(dbdata)
+                        db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"hasdata"}},upsert=False,multi=False)
+                        #train_data = ?????@@@于佳龙
+                        #爬取后的数据处理
+                        #db.trainmap.insert_one(train_data)                        
+                        print(threadname+"@@@@200")
                 else:
-                    print(threadname+"没车")
-					#db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"nodata"}},\
-					#upsert=False,multi=False)
-			#非200请求，请求出错
+                    print(threadname+"没车"+i)
+                    db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"nodata"}},upsert=False,multi=False)
+            #非200请求，请求出错
             else:
                 print(threadname+"@@@@"+str(craw_result.status_code))
         #request.get出错
