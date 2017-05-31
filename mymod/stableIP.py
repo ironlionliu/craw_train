@@ -1,7 +1,7 @@
 #Filename = stableIP.py
 import threading, time, requests, re
-from requests.packages.urllib3.exceptions import InsecureRequestWarning
-requests.packages.urllib3.disable_warnings(InsecureRequestWarning) # 禁用安全请求警告
+# from requests.packages.urllib3.exceptions import InsecureRequestWarning
+# requests.packages.urllib3.disable_warnings(InsecureRequestWarning) # 禁用安全请求警告
 
 #http://www.data5u.com/
 #http://www.xicidaili.com/nn/
