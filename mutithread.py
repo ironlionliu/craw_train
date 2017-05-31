@@ -274,7 +274,7 @@ def craw(step, proxy, urlquery, isproxy):
 				#有车次
                 if len(result['data']['s2sBeanList']):
                     # print(urlquery[i]["url"])
-                    ffor train in range(0,len(result['data']['s2sBeanList'])):
+                    for train in range(0,len(result['data']['s2sBeanList'])):
                         num=result['data']['s2sBeanList'][train]["trainNo"]
                         dptstation=result['data']['s2sBeanList'][train]['dptStationName']
                         arrstation=result['data']['s2sBeanList'][train]['arrStationName']
@@ -302,7 +302,7 @@ def craw(step, proxy, urlquery, isproxy):
                         #db.trainmap.insert_one(train_data)                        
                         print(threadname+"@@@@200")
                 else:
-                    print(threadname+"没车"+i)
+                    print(threadname+"没车")
                     db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"nodata"}},upsert=False,multi=False)
             #非200请求，请求出错
             else:
