@@ -307,7 +307,7 @@ def craw(step, proxy, urlquery, isproxy):
                         "end":endstation,"dpttime":dpttime,"arrtime":arrtime,"daydiff":daydiff,"interval":interval,\
                         "intervalmiles":intervalmiles,"seats":seatdic}
                         db.trainmap.insert_one(dbdata)
-                        db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"hasdata"}},upsert=False,multi=False)
+                        db.url.update({"_id":urlquery[i]["_id"]},{"$set":{"status":"hasdata"}},upsert=False,multi=False)
                         #train_data = ?????@@@于佳龙
                         #爬取后的数据处理
                         #db.trainmap.insert_one(train_data)                        
@@ -315,7 +315,7 @@ def craw(step, proxy, urlquery, isproxy):
                 #没车次
                 else:
                     # print(threadname+"没车")
-                    db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"nodata"}},upsert=False,multi=False)
+                    db.url.update({"_id":urlquery[i]["_id"]},{"$set":{"status":"nodata"}},upsert=False,multi=False)
             #非200请求，请求出错
             else:
                 http_notok = http_notok + 1
@@ -354,7 +354,7 @@ def craw(step, proxy, urlquery, isproxy):
 
 
 #测试区————测试自定义包的各种函数
-#'''
+'''
 log1 = open("log/craw.log","w+")
 log2 = open("log/crawbug.log","w+")
 log3=open("log/crawttime.log","w+")
@@ -420,13 +420,13 @@ log3.close()
 #myutil.genUrl(stations,1,2,"2017-06-20")
 #myutil.updateMongo("addproperty")
 
-#'''
+'''
 #测试区结束
 
 
 
 #主程序————爬虫程序
-'''
+#'''
 
 log1 = open("log/craw.log","w+")
 log2 = open("log/crawbug.log","w+")
@@ -484,7 +484,7 @@ log1.close()
 log2.close()
 log3.close()
 
-'''
+#'''
 #######主函数结束
 
 
@@ -499,7 +499,7 @@ for i in range(1,261):
 	scale = 2638
 	threading.Thread(target = putUrl2Mongo, args = ([start,end,scale]), name = i).start() 
 
-	'''  
+'''  
 
 
 
