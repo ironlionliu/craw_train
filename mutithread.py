@@ -1,7 +1,7 @@
 # coding=utf-8
 import threading, time, requests
-from requests.packages.urllib3.exceptions import InsecureRequestWarning
-requests.packages.urllib3.disable_warnings(InsecureRequestWarning) # 禁用安全请求警告
+# from requests.packages.urllib3.exceptions import InsecureRequestWarning
+# requests.packages.urllib3.disable_warnings(InsecureRequestWarning) # 禁用安全请求警告
 
 from pymongo import MongoClient
 import mymod.myutil
@@ -234,27 +234,11 @@ from json import *
 
 #测试并行效率
 def crawtest(step, proxy, urlquery, isproxy):
+    global log1,log2
     threadname = "线程" + threading.currentThread().getName()
     headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64)"}
-    for i in range(0,step):
-        try:
-            if isproxy == 1:
-                craw_result = requests.get(urlquery[i]["url"],proxies=proxy,headers=headers,verify=False)
-            else:
-                craw_result = requests.get(urlquery[i]["url"],headers=headers,verify=False)
-            print(threadname+"@@@@"+str(craw_result.status_code))
-		#request.get出错
-        except Exception as e:
-            print(e)
-            break
-            pass
-    print("the thread is over"+threadname)
-
-
-
-def craw(step, proxy, urlquery, isproxy):
-    threadname = "线程" + threading.currentThread().getName()
-    headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64)"}
+    http_ok = 0
+    http_notok = 0
     for i in range(0,step):
         try:
             if isproxy == 1:
@@ -262,6 +246,35 @@ def craw(step, proxy, urlquery, isproxy):
             else:
                 craw_result = requests.get(urlquery[i]["url"],headers=headers,verify=False)
             if craw_result.status_code==200:
+                http_ok = http_ok + 1
+                log1.write(threadname+"http_ok\n")
+            else:
+                http_notok = http_notok + 1
+                log1.write(threadname+"http_error\n")
+		#request.get出错
+        except Exception as e:
+            log2.write("sigleTest通过但线程网络请求出错"+threadname+str(e)+'\n')
+            break
+            pass
+    log1.write("the thread is over"+threadname+'\n'+'len(http_ok)='+str(http_ok)+'\t'+'len(http_notok)='+str(http_notok)+'\n')
+
+
+
+
+def craw(step, proxy, urlquery, isproxy):
+    global log1,log2
+    threadname = "线程" + threading.currentThread().getName()
+    headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64)"}
+    http_ok = 0
+    http_notok = 0
+    for i in range(0,step):
+        try:
+            if isproxy == 1:
+                craw_result = requests.get(urlquery[i]["url"],proxies=proxy,headers=headers,verify=False)
+            else:
+                craw_result = requests.get(urlquery[i]["url"],headers=headers,verify=False)
+            if craw_result.status_code==200:
+                http_ok = http_ok + 1
 				#必有正则表达式代替如此傻逼的写法
                 result = craw_result.text.replace("/**/jQuery172031843804203989556_1495894108865","")
                 result = result.replace("(","")
@@ -269,12 +282,10 @@ def craw(step, proxy, urlquery, isproxy):
                 result = result.replace(";","")
 				#
                 result = JSONDecoder().decode(str(result))
-				#result = JSONDecoder().decode(str(result["data"]))
-				#
 				#有车次
                 if len(result['data']['s2sBeanList']):
                     # print(urlquery[i]["url"])
-                    ffor train in range(0,len(result['data']['s2sBeanList'])):
+                    for train in range(0,len(result['data']['s2sBeanList'])):
                         num=result['data']['s2sBeanList'][train]["trainNo"]
                         dptstation=result['data']['s2sBeanList'][train]['dptStationName']
                         arrstation=result['data']['s2sBeanList'][train]['arrStationName']
@@ -300,18 +311,22 @@ def craw(step, proxy, urlquery, isproxy):
                         #train_data = ?????@@@于佳龙
                         #爬取后的数据处理
                         #db.trainmap.insert_one(train_data)                        
-                        print(threadname+"@@@@200")
+                        # print(threadname+"@@@@200")
+                #没车次
                 else:
-                    print(threadname+"没车"+i)
+                    # print(threadname+"没车")
                     db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"nodata"}},upsert=False,multi=False)
             #非200请求，请求出错
             else:
-                print(threadname+"@@@@"+str(craw_result.status_code))
+                http_notok = http_notok + 1
+                # print(threadname+"@@@@"+str(craw_result.status_code))
         #request.get出错
         except Exception as e:
-            print(e)
+            log2.write("sigleTest通过但线程网络请求出错"+threadname+str(e)+'\n')
             break
             pass
+    log1.write("the thread is over"+threadname+'\n'+'len(http_ok)='+str(http_ok)+'\t'+'len(http_notok)='+str(http_notok)+'\n')
+
 '''
 		#print(craw_result.json()['data']['result'])
 		if len(craw_result.json()['data']['result']):
@@ -340,15 +355,23 @@ def craw(step, proxy, urlquery, isproxy):
 
 #测试区————测试自定义包的各种函数
 #'''
+log1 = open("log/craw.log","w+")
+log2 = open("log/crawbug.log","w+")
+log3=open("log/crawttime.log","w+")
+log1.write("\ncrawtest开始:\n"+str(time.ctime()))
+log2.write("\ncrawtestbug开始:\n"+str(time.ctime()))
+log3.write("\ncrawtesttime开始:\n"+str(time.ctime()))
+start_time=time.time()
+
 testUrl = "http://train.qunar.com/dict/open/s2s.do?"+\
         "callback=jQuery172031843804203989556_1495894108865&"+\
         "dptStation=上海&arrStation=北京&date=2017-05-31&"+\
         "type=normal&user=neibu&source=site&start=1&num=500&sort=3"
 
 client = MongoClient()
-db = client.test
+db = client.quna
 myutil = mymod.myutil.myUtil(db)
-#myutil.putUrl2Mongo(382,382,2638,"2017-06-20")
+# myutil.putUrl2Mongo(372,392,2638,"2017-06-20")
 myutil.updateMongo("restart")
 lock = threading.Lock()
 stableip = mymod.stableIP.StableIP()
@@ -356,26 +379,38 @@ proxies = stableip.getIPs("ips.py")
 #craw(100,proxies[0],0)
 #测试多线程速度
 def callcrawtest(step, proxy, urlquery_step):
-    #if stableip.singleTest(proxy,testUrl):
-    if step > 0:
+    if stableip.singleTest(proxy,testUrl):
+    #if step > 0:
         print("succeded")
-        crawtest(step, proxy, urlquery_step, 0)
+        crawtest(step, proxy, urlquery_step, 1)
     else:
         print("failed")
 
-
-
-step = 100
+step = 1000
 urlquery = list(db.url.find({"status":"no"}).limit(step*len(proxies)))
 for i in range(0, step*len(proxies)):
-    db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"ing"}},upsert=False, multi=False)
-count = 0
+    db.url.update({"_id":urlquery[i]["_id"]},{"$set":{"status":"ing"}},upsert=False, multi=False)
+
+threads = []
+thread_num = 0
 for proxy in proxies:
-    count = count + 1
-    start = (count - 1)*step
-    end =(count)*step
+    thread_num = thread_num + 1
+    start = (thread_num - 1)*step
+    end =(thread_num)*step
     urlquery_step = urlquery[start:end]
-    threading.Thread(target = callcrawtest,args=([step,proxy,urlquery_step]),name = "name:"+str(count)).start()
+    onethread = threading.Thread(target = callcrawtest,args=([step,proxy,urlquery_step]),name = "name:"+str(thread_num))
+    onethread.start()
+    threads.append(onethread)
+
+for thread in threads:
+    thread.join()
+log3.write('step='+str(step)+'\t'+'thread='+str(len(proxies))+'\n')
+log3.write('time='+str(time.time()-start_time)+'\n')
+
+
+log1.close()
+log2.close()
+log3.close()
 
 
 
@@ -393,6 +428,14 @@ for proxy in proxies:
 #主程序————爬虫程序
 '''
 
+log1 = open("log/craw.log","w+")
+log2 = open("log/crawbug.log","w+")
+log3=open("log/crawttime.log","w+")
+log1.write("\ncrawtest开始:\n"+str(time.ctime()))
+log2.write("\ncrawtestbug开始:\n"+str(time.ctime()))
+log3.write("\ncrawtesttime开始:\n"+str(time.ctime()))
+start_time=time.time()
+
 testUrl = "http://train.qunar.com/dict/open/s2s.do?"+\
         "callback=jQuery172031843804203989556_1495894108865&"+\
         "dptStation=上海&arrStation=北京&date=2017-05-31&"+\
@@ -401,33 +444,45 @@ testUrl = "http://train.qunar.com/dict/open/s2s.do?"+\
 client = MongoClient()
 db = client.quna
 myutil = mymod.myutil.myUtil(db)
+# myutil.putUrl2Mongo(372,392,2638,"2017-06-20")
 myutil.updateMongo("restart")
 lock = threading.Lock()
 stableip = mymod.stableIP.StableIP()
 proxies = stableip.getIPs("ips.py")
-
+#craw(100,proxies[0],0)
+#测试多线程速度
 def callcraw(step, proxy, urlquery_step):
     if stableip.singleTest(proxy,testUrl):
+        print("succeded")
         craw(step, proxy, urlquery_step, 1)
     else:
-        print("error")
+        print("failed")
 
 step = 1000
 urlquery = list(db.url.find({"status":"no"}).limit(step*len(proxies)))
 for i in range(0, step*len(proxies)):
-    db.url.update({"url":urlquery[i]["url"]},{"$set":{"status":"ing"}},upsert=False, multi=False)
-count = 0
+    db.url.update({"_id":urlquery[i]["_id"]},{"$set":{"status":"ing"}},upsert=False, multi=False)
+
+threads = []
+thread_num = 0
 for proxy in proxies:
-    count = count + 1
-    start = (count - 1)*step
-    end =(count)*step
+    thread_num = thread_num + 1
+    start = (thread_num - 1)*step
+    end =(thread_num)*step
     urlquery_step = urlquery[start:end]
-    threading.Thread(target = callcraw,args=([step,proxy,urlquery_step]),name = "name:"+str(count)).start()
+    onethread = threading.Thread(target = callcraw,args=([step,proxy,urlquery_step]),name = "name:"+str(thread_num))
+    onethread.start()
+    threads.append(onethread)
+
+for thread in threads:
+    thread.join()
+log3.write('step='+str(step)+'\t'+'thread='+str(len(proxies))+'\n')
+log3.write('time='+str(time.time()-start_time)+'\n')
 
 
-
-
-
+log1.close()
+log2.close()
+log3.close()
 
 '''
 #######主函数结束
