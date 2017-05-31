@@ -53,9 +53,7 @@ class StableIP():
 		"dptStation=上海&arrStation=北京&date=2017-06-01&"+\
 		"type=normal&user=neibu&source=site&start=1&num=500&sort=3"
 		try:
-			print("testbegin")
 			response = requests.get(testUrl,proxies=proxy,verify=False,timeout=60)
-			print("testover")
 			if  response.status_code==200:
 				return True
 		except Exception as e:

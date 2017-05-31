@@ -1,12 +1,2 @@
-step=100	thread=100
-time=116.94791889190674
-total len(200)=1611	len(503)=8350
-step=10	thread=100
-time=4.44663405418396
-total len(200)=893	len(503)=0
-step=10	thread=200
-time=10.023648977279663
-total len(200)=441	len(503)=1559
-step=100	thread=200
-time=374.02626180648804
-total len(200)=2847	len(503)=10898
+crawtesttime开始:Wed May 31 21:42:41 2017crawtesttime开始:Wed May 31 21:44:07 2017crawtesttime开始:Wed May 31 21:47:58 2017crawtesttime开始:Wed May 31 21:53:00 2017crawtesttime开始:Wed May 31 21:55:54 2017crawtesttime开始:Wed May 31 21:57:07 2017step=100	thread=500
+time=1061.2267789840698

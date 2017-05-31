@@ -76,6 +76,9 @@ class myUtil():
 
 
 	##outer_start是外层循环起始,outer_end是外层结束,闭区间.scale是内循环尺寸,闭区间应为2638
+	#outer_start从1开始对应stations从数组0开始
+	#outer_end对应stations脚标为outer_end-1
+	#即（1，10）对应（0，9）
 	def putUrl2Mongo(self, outer_start, outer_end, scale, date):
 		stations = self.readStationsAsArr('mymod/stations.py')
 		for i in range(outer_start, outer_end+1):
