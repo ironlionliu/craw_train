@@ -94,6 +94,9 @@ class myUtil():
 			self.db.url.update({},{"$set":{"status":"no"}},upsert=False, multi=True)
 		elif option == "restart":
 			self.db.url.update({"status":"ing"},{"$set":{"status":"no"}},upsert=False, multi=True)
+	
+
+
 
 	
 

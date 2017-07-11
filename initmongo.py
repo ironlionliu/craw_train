@@ -9,16 +9,16 @@ import mymod.stableIP
 from json import *
 
 client = MongoClient()
-db = client.test
+db = client.quna
 myutil = mymod.myutil.myUtil(db)
 
 #myutil.updateMongo("restart")
-myutil.putUrl2Mongo(372,392,2638,"2017-06-20")
+#myutil.putUrl2Mongo(372,392,2638,"2017-06-20")
 print("开始")
-results = list(db.url.find({"status":"no"}).limit(50000))
-for result in results:
-	db.url.update({"_id":result["_id"]},{"$set":{"status":"ing"}},upsert=False, multi=False)
-
+#results = list(db.url.find({"status":"no"}).limit(50000))
+#for result in results:
+#	db.url.update({"_id":result["_id"]},{"$set":{"status":"ing"}},upsert=False, multi=False)
+db.url.update({"status":"hasdata"},{"$set":{"status":"no"}},upsert=False, multi=True)
 
 print("更新完成")
 #myutil.updateMongo("restart")
@@ -39,6 +39,10 @@ myutil.putUrl2Mongo(1318,1319,2638,"2017-06-20")
 ###4liushangyu
 #
 #
+
+
+
+
 ###4yujialong  (1320~2638)*2638
 for i in range(1,440):
 	print(i)
