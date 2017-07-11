@@ -234,9 +234,9 @@ from json import *
 
 #测试并行效率
 def crawtest(step, proxy, urlquery, isproxy):
-    global log1,log2
+    #global log1,log2
     threadname = "线程" + threading.currentThread().getName()
-    headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64)"}
+    headers = {"Proxy-Authorization":"SDU0Ujg4MTI4N0UxN1I2RDo4QzFERjYyNUIwMzI4ODJD"}
     http_ok = 0
     http_notok = 0
     for i in range(0,step):
@@ -247,23 +247,25 @@ def crawtest(step, proxy, urlquery, isproxy):
                 craw_result = requests.get(urlquery[i]["url"],headers=headers,verify=False)
             if craw_result.status_code==200:
                 http_ok = http_ok + 1
-                log1.write(threadname+"http_ok\n")
+                #log1.write(threadname+"http_ok\n")
             else:
                 http_notok = http_notok + 1
-                log1.write(threadname+"http_error\n")
+                #log1.write(threadname+"http_error\n")
 		#request.get出错
         except Exception as e:
-            log2.write("sigleTest通过但线程网络请求出错"+threadname+str(e)+'\n')
+            print("sigleTest通过但线程网络请求出错"+threadname+str(e)+'\n')
+            #log2.write("sigleTest通过但线程网络请求出错"+threadname+str(e)+'\n')
             break
             pass
-    log1.write("the thread is over"+threadname+'\n'+'len(http_ok)='+str(http_ok)+'\t'+'len(http_notok)='+str(http_notok)+'\n')
+    #log1.write("the thread is over"+threadname+'\n'+'len(http_ok)='+str(http_ok)+'\t'+'len(http_notok)='+str(http_notok)+'\n')
 
 
 
 
 def craw(step, proxy, urlquery, isproxy):
-    global log1,log2
+    #global log1,log2
     threadname = "线程" + threading.currentThread().getName()
+    #headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64)","Proxy-Authorization":"SDU0Ujg4MTI4N0UxN1I2RDo4QzFERjYyNUIwMzI4ODJD"}
     headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64)"}
     http_ok = 0
     http_notok = 0
@@ -306,27 +308,36 @@ def craw(step, proxy, urlquery, isproxy):
                         dbdata={"num":num,"dptstation":dptstation,"arrstation":arrstation,"start":startstation,\
                         "end":endstation,"dpttime":dpttime,"arrtime":arrtime,"daydiff":daydiff,"interval":interval,\
                         "intervalmiles":intervalmiles,"seats":seatdic}
+                        ##本函数更新数据库
+                        ##part1
+                        #print(dbdata)
                         db.trainmap.insert_one(dbdata)
                         db.url.update({"_id":urlquery[i]["_id"]},{"$set":{"status":"hasdata"}},upsert=False,multi=False)
                         #train_data = ?????@@@于佳龙
                         #爬取后的数据处理
                         #db.trainmap.insert_one(train_data)                        
-                        # print(threadname+"@@@@200")
+                    print(threadname+"@@@@200")
                 #没车次
                 else:
-                    # print(threadname+"没车")
+                    ##本函数更新数据库
+                    ##part2
+                    #print(threadname+"没车")
                     db.url.update({"_id":urlquery[i]["_id"]},{"$set":{"status":"nodata"}},upsert=False,multi=False)
             #非200请求，请求出错
             else:
                 http_notok = http_notok + 1
-                # print(threadname+"@@@@"+str(craw_result.status_code))
+                print(threadname+"@@@@"+str(craw_result.status_code))
         #request.get出错
         except Exception as e:
-            log2.write("sigleTest通过但线程网络请求出错"+threadname+str(e)+'\n')
+            print("sigleTest通过但线程网络请求出错"+threadname+str(e)+'\n')
+            #log2.write("sigleTest通过但线程网络请求出错"+threadname+str(e)+'\n')
             break
             pass
-    log1.write("the thread is over"+threadname+'\n'+'len(http_ok)='+str(http_ok)+'\t'+'len(http_notok)='+str(http_notok)+'\n')
+    print("the thread is over"+threadname+'\n'+'len(http_ok)='+str(http_ok)+'\t'+'len(http_notok)='+str(http_notok)+'\n')
 
+
+
+    
 '''
 		#print(craw_result.json()['data']['result'])
 		if len(craw_result.json()['data']['result']):
@@ -428,12 +439,12 @@ log3.close()
 #主程序————爬虫程序
 #'''
 
-log1 = open("log/craw.log","w+")
-log2 = open("log/crawbug.log","w+")
-log3=open("log/crawttime.log","w+")
-log1.write("\ncrawtest开始:\n"+str(time.ctime()))
-log2.write("\ncrawtestbug开始:\n"+str(time.ctime()))
-log3.write("\ncrawtesttime开始:\n"+str(time.ctime()))
+#log1 = open("log/craw.log","w+")
+#log2 = open("log/crawbug.log","w+")
+#log3=open("log/crawttime.log","w+")
+#log1.write("\ncrawtest开始:\n"+str(time.ctime()))
+#log2.write("\ncrawtestbug开始:\n"+str(time.ctime()))
+#log3.write("\ncrawtesttime开始:\n"+str(time.ctime()))
 start_time=time.time()
 
 testUrl = "http://train.qunar.com/dict/open/s2s.do?"+\
@@ -445,44 +456,49 @@ client = MongoClient()
 db = client.quna
 myutil = mymod.myutil.myUtil(db)
 # myutil.putUrl2Mongo(372,392,2638,"2017-06-20")
-myutil.updateMongo("restart")
+#myutil.updateMongo("restart")
 lock = threading.Lock()
 stableip = mymod.stableIP.StableIP()
-proxies = stableip.getIPs("ips.py")
+proxies = stableip.getIPs("ip1.py")
 #craw(100,proxies[0],0)
 #测试多线程速度
 def callcraw(step, proxy, urlquery_step):
     if stableip.singleTest(proxy,testUrl):
-        print("succeded")
         craw(step, proxy, urlquery_step, 1)
     else:
-        print("failed")
+        print("无效ip")
+        print(proxy["http"])
+        pass
 
 step = 1000
 urlquery = list(db.url.find({"status":"no"}).limit(step*len(proxies)))
-for i in range(0, step*len(proxies)):
-    db.url.update({"_id":urlquery[i]["_id"]},{"$set":{"status":"ing"}},upsert=False, multi=False)
+#for i in range(0, step*len(proxies)):
+#    db.url.update({"_id":urlquery[i]["_id"]},{"$set":{"status":"ing"}},upsert=False, multi=False)
 
-threads = []
+#threads = []
 thread_num = 0
 for proxy in proxies:
     thread_num = thread_num + 1
     start = (thread_num - 1)*step
     end =(thread_num)*step
     urlquery_step = urlquery[start:end]
+    for oneUrl in urlquery_step:
+        oneUrl["url"] = oneUrl["url"].replace("2017-06-20","2017-07-26")
     onethread = threading.Thread(target = callcraw,args=([step,proxy,urlquery_step]),name = "name:"+str(thread_num))
     onethread.start()
-    threads.append(onethread)
+    #threads.append(onethread)
 
-for thread in threads:
-    thread.join()
-log3.write('step='+str(step)+'\t'+'thread='+str(len(proxies))+'\n')
-log3.write('time='+str(time.time()-start_time)+'\n')
+#for thread in threads:
+#    thread.join()
 
 
-log1.close()
-log2.close()
-log3.close()
+#log3.write('step='+str(step)+'\t'+'thread='+str(len(proxies))+'\n')
+#log3.write('time='+str(time.time()-start_time)+'\n')
+
+
+#log1.close()
+#log2.close()
+#log3.close()
 
 #'''
 #######主函数结束

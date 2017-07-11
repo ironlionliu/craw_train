@@ -1,0 +1,7103 @@
+线程name:77没车
+sigleTest通过但线程网络请求出错线程name:5'data'
+
+the thread is over线程name:5
+len(http_ok)=1	len(http_notok)=0
+
+线程name:32没车
+线程name:77@@@@200
+线程name:28没车
+线程name:32没车
+线程name:18没车
+线程name:77没车
+线程name:45没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:45HTTPConnectionPool(host='115.195.41.189', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%94%90%E5%AE%B6%E6%B9%BE&arrStation=%E9%9C%B8%E5%B7%9E%E8%A5%BF&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:45
+len(http_ok)=1	len(http_notok)=0
+
+线程name:28没车
+线程name:77没车
+线程name:32没车
+线程name:18没车
+线程name:77没车
+线程name:32没车
+线程name:59没车
+线程name:77没车
+线程name:72没车
+线程name:18没车
+线程name:47没车
+线程name:77没车
+线程name:72@@@@200
+线程name:18没车
+线程name:77没车
+线程name:59没车
+线程name:72没车
+线程name:77没车
+线程name:47没车
+线程name:50没车
+线程name:18没车
+线程name:72没车
+线程name:77没车
+线程name:28没车
+sigleTest通过但线程网络请求出错线程name:1'data'
+
+the thread is over线程name:1
+len(http_ok)=1	len(http_notok)=0
+
+线程name:77没车
+线程name:59没车
+线程name:72没车
+线程name:18没车
+线程name:32没车
+线程name:50没车
+线程name:77没车
+线程name:18没车
+线程name:50没车
+线程name:32没车
+线程name:60没车
+线程name:18没车
+sigleTest通过但线程网络请求出错线程name:4'data'
+
+the thread is over线程name:4
+len(http_ok)=1	len(http_notok)=0
+
+线程name:77没车
+线程name:50没车
+线程name:81没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:39HTTPConnectionPool(host='124.166.176.5', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%9C%AC%E6%BA%AA&arrStation=%E9%87%8C%E6%9C%A8%E5%BA%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+
+the thread is over线程name:39
+len(http_ok)=0	len(http_notok)=0
+
+线程name:77没车
+线程name:81没车
+线程name:32没车
+线程name:18没车
+线程name:77没车
+线程name:81没车
+线程name:59没车
+线程name:53没车
+sigleTest通过但线程网络请求出错线程name:9'data'
+
+the thread is over线程name:9
+len(http_ok)=1	len(http_notok)=0
+
+线程name:77没车
+线程name:81没车
+线程name:43没车
+线程name:28没车
+线程name:77没车
+线程name:81没车
+线程name:53没车
+线程name:18没车
+线程name:77没车
+线程name:53没车
+线程name:77没车
+线程name:59没车
+线程name:50没车
+线程name:77没车
+线程name:53没车
+线程name:18没车
+线程name:50没车
+线程name:77没车
+线程name:32没车
+线程name:68没车
+线程name:50没车
+线程name:53没车
+线程name:77没车
+线程name:59没车
+线程name:77没车
+线程name:18没车
+线程name:53没车
+线程name:28没车
+线程name:72没车
+线程name:77没车
+线程name:51没车
+线程name:28没车
+线程name:77没车
+线程name:47没车
+线程name:59没车
+线程name:72没车
+线程name:77没车
+线程name:28没车
+线程name:18没车
+线程name:77没车
+线程name:44没车
+线程name:32没车
+线程name:50没车
+线程name:99没车
+线程name:77没车
+线程name:32没车
+线程name:59没车
+线程name:77没车
+线程name:32没车
+线程name:77没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:77没车
+线程name:85没车
+线程name:51没车
+线程name:47没车
+线程name:77没车
+线程name:51没车
+线程name:60没车
+线程name:81没车
+线程name:77没车
+线程name:43没车
+线程name:44没车
+线程name:28没车
+线程name:93没车
+线程name:77没车
+线程name:43没车
+线程name:28没车
+线程name:77没车
+线程name:43没车
+线程name:77没车
+线程name:65没车
+线程name:43没车
+线程name:32没车
+线程name:51没车
+线程name:77没车
+线程name:85没车
+线程name:68@@@@200
+线程name:50没车
+线程name:77没车
+线程name:18没车
+线程name:50没车
+线程name:99没车
+线程name:43没车
+线程name:68没车
+线程name:44没车
+线程name:77没车
+线程name:53没车
+线程name:50没车
+线程name:43没车
+线程name:77没车
+线程name:53没车
+无效ip
+221.230.72.168:80
+线程name:77没车
+线程name:85没车
+线程name:77没车
+线程name:53没车
+线程name:87没车
+线程name:18没车
+线程name:100没车
+线程name:34没车
+线程name:32没车
+线程name:77没车
+线程name:87没车
+线程name:32没车
+线程name:77没车
+线程name:50没车
+线程name:87没车
+线程name:32没车
+线程name:77没车
+线程name:87没车
+线程name:32没车
+线程name:77没车
+线程name:32没车
+线程name:28没车
+线程name:47没车
+线程name:77没车
+线程name:32@@@@200
+线程name:77没车
+线程name:32没车
+线程name:51没车
+线程name:87@@@@200
+线程name:34没车
+线程name:50没车
+线程name:77@@@@200
+线程name:32@@@@200
+线程name:85没车
+线程name:93没车
+线程name:44没车
+线程name:77没车
+线程name:87没车
+线程name:77没车
+线程name:50@@@@200
+线程name:59没车
+线程name:87没车
+线程name:77没车
+线程name:60没车
+线程name:77没车
+线程name:77没车
+线程name:72没车
+线程name:77没车
+线程name:32没车
+线程name:44没车
+线程name:77没车
+线程name:32没车
+线程name:87没车
+线程name:43没车
+线程name:72没车
+线程name:77没车
+线程name:77没车
+线程name:72没车
+线程name:43没车
+线程name:50没车
+线程name:87没车
+线程name:53没车
+线程name:77没车
+线程name:50没车
+线程name:18没车
+线程name:43没车
+线程name:77没车
+线程name:50没车
+线程name:53没车
+线程name:77没车
+线程name:72没车
+线程name:85没车
+线程name:87没车
+线程name:53没车
+线程name:44没车
+线程name:77没车
+线程name:18没车
+sigleTest通过但线程网络请求出错线程name:6'data'
+
+the thread is over线程name:6
+len(http_ok)=1	len(http_notok)=0
+
+线程name:72没车
+线程name:32没车
+线程name:77没车
+线程name:100没车
+线程name:53没车
+线程name:32没车
+线程name:47没车
+线程name:77没车
+线程name:87没车
+sigleTest通过但线程网络请求出错线程name:18'data'
+
+the thread is over线程name:18
+len(http_ok)=18	len(http_notok)=0
+
+线程name:32没车
+线程name:77没车
+线程name:47没车
+线程name:32没车
+线程name:77没车
+线程name:93没车
+线程name:65没车
+线程name:87没车
+线程name:32没车
+线程name:50没车
+线程name:83没车
+线程name:77没车
+线程name:32没车
+线程name:50@@@@200
+线程name:93没车
+线程name:77没车
+线程name:32没车
+线程name:77没车
+线程name:32没车
+线程name:93没车
+线程name:72没车
+线程name:100没车
+线程name:77没车
+线程name:32没车
+线程name:50没车
+线程name:19没车
+线程name:77没车
+线程name:34没车
+线程name:59没车
+线程name:50没车
+线程name:77没车
+线程name:72没车
+线程name:32@@@@200
+线程name:77没车
+线程name:72没车
+线程name:32没车
+线程name:77没车
+线程name:59没车
+线程name:32没车
+线程name:77没车
+线程name:100没车
+线程name:32没车
+线程name:77没车
+线程name:43没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:85HTTPConnectionPool(host='113.250.180.64', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%BB%A3%E5%8E%BF&arrStation=%E4%B8%87%E5%B7%9E%E5%8C%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+
+the thread is over线程name:85
+len(http_ok)=5	len(http_notok)=0
+
+线程name:77没车
+线程name:87没车
+线程name:32没车
+线程name:34没车
+线程name:82没车
+线程name:77没车
+sigleTest通过但线程网络请求出错线程name:28HTTPConnectionPool(host='49.81.255.177', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AD%9D%E5%8D%97&arrStation=%E9%82%A3%E7%BD%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:28
+len(http_ok)=10	len(http_notok)=0
+
+线程name:32@@@@200
+线程name:77没车
+线程name:32没车
+线程name:77没车
+线程name:32没车
+线程name:90没车
+线程name:100没车
+线程name:77没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:95没车
+线程name:77@@@@200
+线程name:77没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:77没车
+线程name:50没车
+线程name:27没车
+线程name:32没车
+线程name:31没车
+线程name:77没车
+线程name:22没车
+线程name:50没车
+线程name:32没车
+线程name:77没车
+线程name:93没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:83没车
+线程name:42没车
+线程name:95没车
+线程name:77没车
+线程name:50没车
+线程name:32没车
+线程name:77没车
+线程name:50没车
+线程name:32@@@@200
+线程name:77没车
+线程name:77没车
+线程name:77没车
+线程name:72没车
+线程name:96没车
+线程name:59没车
+线程name:83没车
+线程name:77没车
+线程name:100没车
+线程name:95没车
+线程name:77没车
+线程name:77没车
+线程name:50没车
+线程name:32没车
+线程name:77没车
+线程name:77没车
+线程name:59没车
+线程name:83没车
+线程name:32没车
+线程name:77没车
+线程name:32@@@@200
+线程name:77没车
+线程name:32没车
+线程name:77没车
+线程name:34没车
+线程name:32没车
+线程name:59没车
+线程name:77没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:10'data'
+
+the thread is over线程name:10
+len(http_ok)=1	len(http_notok)=0
+
+线程name:77没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:83没车
+线程name:77没车
+线程name:93没车
+线程name:50没车
+线程name:32没车
+线程name:77没车
+线程name:94@@@@200
+线程name:50没车
+线程name:32没车
+线程name:59没车
+线程name:77没车
+线程name:53@@@@200
+线程name:50没车
+线程name:87没车
+线程name:32没车
+线程name:77没车
+线程name:34没车
+线程name:32没车
+线程name:77没车
+线程name:53没车
+线程name:32@@@@200
+线程name:59没车
+线程name:77没车
+线程name:32没车
+线程name:53没车
+线程name:94没车
+线程name:27没车
+线程name:77没车
+线程name:32没车
+线程name:32没车
+线程name:53没车
+线程name:77@@@@200
+线程name:32没车
+线程name:77没车
+线程name:59没车
+线程name:53没车
+线程name:94没车
+线程name:50没车
+线程name:34没车
+线程name:87没车
+线程name:32@@@@200
+线程name:77没车
+线程name:32没车
+线程name:77没车
+线程name:32没车
+线程name:94没车
+线程name:77没车
+线程name:59@@@@200
+线程name:100没车
+线程name:32没车
+线程name:77没车
+线程name:32没车
+线程name:77没车
+线程name:32没车
+线程name:77没车
+线程name:32没车
+线程name:50没车
+线程name:59没车
+线程name:77@@@@200
+线程name:60没车
+线程name:32没车
+线程name:50没车
+线程name:34没车
+线程name:77没车
+线程name:77没车
+线程name:93没车
+线程name:87没车
+线程name:50没车
+线程name:72没车
+线程name:96没车
+线程name:77没车
+线程name:93没车
+线程name:50没车
+线程name:77没车
+线程name:59没车
+线程name:50没车
+线程name:77没车
+线程name:83没车
+线程name:72没车
+线程name:60没车
+线程name:50没车
+线程name:43没车
+线程name:77没车
+线程name:50没车
+线程name:72没车
+线程name:77没车
+线程name:50没车
+线程name:77没车
+线程name:72没车
+线程name:43没车
+线程name:59没车
+线程name:77没车
+线程name:43没车
+线程name:53没车
+线程name:50没车
+线程name:77没车
+线程name:43没车
+线程name:77没车
+线程name:59没车
+线程name:53没车
+线程name:77没车
+线程name:53@@@@200
+线程name:72@@@@200
+线程name:75没车
+线程name:59没车
+线程name:50没车
+线程name:94@@@@200
+线程name:32@@@@200
+线程name:87没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:19没车
+线程name:32没车
+线程name:72没车
+线程name:59没车
+线程name:32没车
+线程name:34没车
+线程name:50没车
+线程name:20@@@@200
+线程name:87没车
+线程name:59没车
+线程name:72没车
+sigleTest通过但线程网络请求出错线程name:19'data'
+
+the thread is over线程name:19
+len(http_ok)=3	len(http_notok)=0
+
+线程name:83没车
+线程name:95没车
+线程name:55没车
+线程name:34没车
+线程name:32没车
+线程name:68没车
+线程name:59没车
+线程name:53@@@@200
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:20没车
+线程name:53没车
+线程name:83没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:72'data'
+
+the thread is over线程name:72
+len(http_ok)=24	len(http_notok)=0
+
+线程name:32没车
+线程name:53没车
+线程name:59没车
+线程name:32没车
+线程name:87没车
+线程name:53没车
+线程name:32没车
+线程name:77没车
+线程name:77没车
+线程name:32没车
+线程name:75没车
+线程name:77没车
+线程name:59没车
+线程name:20没车
+线程name:77没车
+线程name:94没车
+线程name:77没车
+线程name:32@@@@200
+线程name:50没车
+线程name:77没车
+线程name:50没车
+线程name:59没车
+线程name:77没车
+线程name:77没车
+线程name:77没车
+线程name:77没车
+线程name:20没车
+线程name:77没车
+线程name:43@@@@200
+线程name:87没车
+线程name:59没车
+线程name:32@@@@200
+线程name:68没车
+线程name:77没车
+线程name:50没车
+线程name:17没车
+线程name:77没车
+线程name:77没车
+sigleTest通过但线程网络请求出错线程name:77'data'
+
+the thread is over线程name:77
+len(http_ok)=144	len(http_notok)=0
+
+线程name:34没车
+线程name:59没车
+线程name:93没车
+线程name:32没车
+线程name:83没车
+线程name:93没车
+线程name:93没车
+线程name:50没车
+线程name:47没车
+线程name:53没车
+线程name:50没车
+线程name:47没车
+线程name:50没车
+线程name:32没车
+线程name:53没车
+线程name:32没车
+线程name:94没车
+线程name:32没车
+线程name:83没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:87没车
+线程name:43没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:100没车
+线程name:32@@@@200
+线程name:20没车
+线程name:16没车
+线程name:32没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:53HTTPConnectionPool(host='119.5.1.2', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%BD%99%E7%B2%AE%E5%A0%A1&arrStation=%E9%9D%96%E5%B7%9E&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+
+the thread is over线程name:53
+len(http_ok)=27	len(http_notok)=0
+
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:94没车
+线程name:32没车
+线程name:34没车
+sigleTest通过但线程网络请求出错线程name:87HTTPConnectionPool(host='140.255.236.138', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%8F%8C%E4%B8%B0&arrStation=%E4%B8%89%E4%BA%95%E5%AD%90&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+
+the thread is over线程name:87
+len(http_ok)=21	len(http_notok)=0
+
+线程name:32没车
+线程name:93没车
+线程name:32没车
+线程name:20没车
+线程name:27没车
+线程name:60没车
+线程name:16没车
+线程name:32没车
+线程name:93没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32@@@@200
+线程name:34没车
+线程name:57没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:95没车
+sigleTest通过但线程网络请求出错线程name:8'data'
+
+the thread is over线程name:8
+len(http_ok)=1	len(http_notok)=0
+
+线程name:50没车
+线程name:32@@@@200
+线程name:27没车
+线程name:86没车
+线程name:32没车
+线程name:83没车
+线程name:32没车
+线程name:81没车
+线程name:100没车
+线程name:32没车
+线程name:81没车
+线程name:32没车
+线程name:81没车
+线程name:32没车
+线程name:81没车
+线程name:100没车
+线程name:50没车
+线程name:32没车
+线程name:81没车
+线程name:50没车
+线程name:82没车
+线程name:83没车
+线程name:32没车
+线程name:50没车
+线程name:90没车
+线程name:32没车
+线程name:50没车
+线程name:27没车
+线程name:59没车
+线程name:32没车
+线程name:93@@@@200
+线程name:55没车
+线程name:94没车
+线程name:60没车
+线程name:96没车
+线程name:83没车
+线程name:59没车
+线程name:68没车
+线程name:32没车
+线程name:50没车
+线程name:16没车
+线程name:32没车
+线程name:82没车
+线程name:32没车
+线程name:94没车
+线程name:34没车
+线程name:32没车
+线程name:50没车
+线程name:83没车
+线程name:60没车
+线程name:42没车
+线程name:59没车
+线程name:22没车
+线程name:16没车
+线程name:65没车
+线程name:96没车
+线程name:81没车
+线程name:83没车
+线程name:94没车
+线程name:50没车
+线程name:100没车
+线程name:32@@@@200
+线程name:60没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:93没车
+线程name:65没车
+线程name:32没车
+线程name:16没车
+线程name:32没车
+线程name:50没车
+线程name:43没车
+线程name:60没车
+线程name:32没车
+线程name:94没车
+线程name:43没车
+线程name:32没车
+线程name:90没车
+线程name:50没车
+线程name:68没车
+线程name:32没车
+线程name:100没车
+线程name:43没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:43没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32@@@@200
+线程name:34没车
+线程name:32没车
+线程name:100@@@@200
+线程name:51没车
+线程name:32没车
+线程name:50没车
+线程name:82没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:42没车
+线程name:47没车
+线程name:32没车
+线程name:83没车
+线程name:32没车
+线程name:25没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:83没车
+线程name:47没车
+线程name:32没车
+线程name:68没车
+线程name:60没车
+线程name:51没车
+线程name:47没车
+线程name:95没车
+线程name:32没车
+线程name:51没车
+线程name:22没车
+线程name:44没车
+线程name:65没车
+线程name:51没车
+线程name:16没车
+线程name:47没车
+线程name:32没车
+线程name:43没车
+线程name:50没车
+线程name:23没车
+线程name:51没车
+线程name:94没车
+线程name:50没车
+线程name:51没车
+线程name:47没车
+线程name:23没车
+线程name:50没车
+线程name:32没车
+线程name:81没车
+线程name:47没车
+线程name:51没车
+线程name:43没车
+线程name:50没车
+线程name:32没车
+线程name:51没车
+线程name:60没车
+线程name:51没车
+线程name:23没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:55没车
+线程name:86没车
+线程name:23没车
+线程name:32没车
+线程name:32没车
+线程name:60没车
+线程name:51没车
+线程name:32没车
+线程name:100没车
+线程name:34没车
+线程name:32没车
+线程name:35没车
+线程name:44没车
+线程name:51没车
+线程name:75没车
+线程name:23没车
+线程name:44没车
+线程name:51没车
+线程name:44没车
+线程name:35没车
+线程name:90没车
+线程name:22没车
+线程name:51没车
+线程name:44没车
+线程name:32没车
+线程name:93没车
+线程name:51没车
+线程name:82没车
+线程name:23没车
+线程name:32没车
+线程name:25没车
+线程name:34没车
+线程name:51没车
+线程name:100没车
+线程name:59没车
+线程name:83没车
+线程name:51没车
+线程name:47没车
+线程name:50没车
+线程name:51没车
+线程name:47没车
+线程name:50没车
+线程name:32没车
+线程name:51没车
+线程name:64没车
+线程name:32没车
+线程name:50没车
+线程name:31@@@@200
+线程name:65没车
+线程name:32没车
+线程name:51没车
+线程name:34没车
+线程name:59没车
+线程name:94没车
+线程name:83没车
+线程name:51没车
+线程name:51没车
+线程name:55没车
+线程name:51没车
+线程name:96@@@@200
+线程name:59没车
+线程name:83没车
+线程name:57没车
+线程name:100没车
+线程name:32没车
+线程name:51没车
+线程name:65没车
+线程name:44没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:94没车
+线程name:51没车
+线程name:60没车
+线程name:51没车
+线程name:51没车
+线程name:50没车
+线程name:51没车
+线程name:51没车
+线程name:50没车
+线程name:51@@@@200
+线程name:32没车
+线程name:65没车
+线程name:51没车
+线程name:31没车
+线程name:32没车
+线程name:51没车
+线程name:47没车
+线程name:60@@@@200
+线程name:32没车
+线程name:51没车
+线程name:47没车
+线程name:32没车
+线程name:51没车
+线程name:82没车
+线程name:32没车
+线程name:51没车
+线程name:47没车
+线程name:51没车
+线程name:51没车
+线程name:51@@@@200
+线程name:50没车
+线程name:51没车
+线程name:65没车
+线程name:14没车
+线程name:59没车
+线程name:47没车
+线程name:93没车
+线程name:32没车
+线程name:82没车
+线程name:50没车
+线程name:32没车
+线程name:83没车
+线程name:81没车
+线程name:32没车
+线程name:100没车
+线程name:32没车
+线程name:43没车
+无效ip
+114.226.10.159:808
+无效ip
+115.224.91.64:8998
+无效ip
+114.236.86.93:8998
+线程name:32没车
+无效ip
+27.18.197.48:8998
+无效ip
+119.5.0.27:808
+无效ip
+221.229.47.72:808
+无效ip
+183.157.170.218:8998
+无效ip
+175.155.25.13:808
+无效ip
+223.241.43.81:808
+无效ip
+117.85.224.46:8998
+无效ip
+175.43.106.149:808
+无效ip
+125.83.99.124:8998
+无效ip
+115.202.177.217:808
+无效ip
+222.95.22.55:808
+无效ip
+124.235.53.196:8998
+无效ip
+121.226.163.46:808
+无效ip
+117.43.240.47:8998
+无效ip
+218.18.232.29:8080
+无效ip
+114.239.1.172:808
+无效ip
+60.167.133.56:808
+无效ip
+120.83.101.139:808
+无效ip
+183.153.37.211:808
+无效ip
+175.43.106.20:808
+无效ip
+115.224.80.254:8998
+无效ip
+183.161.56.209:8998
+无效ip
+114.239.144.44:808
+无效ip
+111.79.1.50:8998
+无效ip
+115.207.36.98:808
+无效ip
+27.18.107.239:8998
+无效ip
+114.239.148.124:808
+线程name:32没车
+无效ip
+222.95.17.238:808
+无效ip
+175.155.243.191:808
+无效ip
+14.109.110.63:8998
+线程name:83没车
+线程name:47没车
+线程name:47没车
+线程name:47没车
+线程name:51没车
+线程name:94没车
+无效ip
+125.123.23.49:8998
+线程name:51没车
+线程name:60没车
+线程name:47没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:47没车
+线程name:32没车
+线程name:51没车
+线程name:47没车
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:60没车
+线程name:51没车
+线程name:32@@@@200
+线程name:51没车
+线程name:94没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:51没车
+线程name:27没车
+线程name:32没车
+线程name:43没车
+线程name:60没车
+线程name:51没车
+线程name:16没车
+线程name:32没车
+线程name:31没车
+线程name:51没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:43没车
+线程name:32没车
+线程name:51没车
+线程name:60没车
+线程name:32没车
+线程name:51没车
+线程name:55没车
+线程name:32没车
+线程name:51没车
+线程name:34没车
+线程name:51没车
+线程name:27没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:47没车
+线程name:50没车
+线程name:32没车
+线程name:86@@@@200
+线程name:50没车
+线程name:16没车
+线程name:32没车
+线程name:47没车
+线程name:75没车
+线程name:32没车
+线程name:27没车
+线程name:32没车
+线程name:100没车
+线程name:32没车
+线程name:55@@@@200
+线程name:55没车
+线程name:60没车
+线程name:50没车
+线程name:100没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:16'data'
+
+the thread is over线程name:16
+len(http_ok)=9	len(http_notok)=0
+
+线程name:50@@@@200
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:51没车
+线程name:32@@@@200
+线程name:51没车
+线程name:32没车
+线程name:100没车
+线程name:51没车
+线程name:32没车
+线程name:65没车
+线程name:32没车
+线程name:50没车
+线程name:51没车
+线程name:47没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:12没车
+sigleTest通过但线程网络请求出错线程name:95HTTPConnectionPool(host='171.13.37.128', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%8C%97%E6%BB%98&arrStation=%E4%B8%89%E8%90%A5&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:95
+len(http_ok)=6	len(http_notok)=0
+
+线程name:47没车
+线程name:12没车
+线程name:50没车
+线程name:55没车
+线程name:32没车
+线程name:68没车
+线程name:47没车
+线程name:93没车
+线程name:32没车
+线程name:55没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:55没车
+线程name:47没车
+线程name:32没车
+线程name:55没车
+线程name:57没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:31没车
+线程name:32没车
+线程name:32没车
+线程name:32@@@@200
+线程name:94@@@@200
+线程name:32没车
+线程name:82没车
+线程name:32没车
+线程name:32没车
+线程name:43没车
+线程name:50没车
+线程name:47没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:90没车
+无效ip
+180.110.4.27:808
+线程name:32没车
+线程name:47没车
+线程name:12没车
+线程name:43没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:68没车
+线程name:55没车
+线程name:84没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:68没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:93没车
+线程name:60没车
+线程name:90没车
+线程name:94没车
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:32没车
+线程name:35@@@@200
+线程name:32没车
+线程name:51没车
+sigleTest通过但线程网络请求出错线程name:97HTTPConnectionPool(host='115.171.20.187', port=80): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%85%91%E9%95%87&arrStation=%E4%B8%89%E9%97%A8%E5%B3%A1%E5%8D%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10d216550>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:97
+len(http_ok)=0	len(http_notok)=0
+
+线程name:32没车
+线程name:86没车
+线程name:31没车
+线程name:51没车
+线程name:60没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:50没车
+线程name:75没车
+线程name:50没车
+线程name:68@@@@200
+线程name:81没车
+线程name:82没车
+线程name:100@@@@200
+线程name:32没车
+线程name:59没车
+线程name:52@@@@200
+线程name:81没车
+线程name:32没车
+线程name:75没车
+线程name:32没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:83HTTPConnectionPool(host='222.85.50.186', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%8D%97%E5%85%85%E5%8C%97&arrStation=%E4%B8%89%E5%8E%9F&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:83
+len(http_ok)=22	len(http_notok)=0
+
+线程name:32没车
+线程name:51没车
+线程name:59没车
+线程name:32没车
+线程name:50@@@@200
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:75没车
+线程name:51没车
+线程name:47@@@@200
+线程name:59没车
+线程name:51没车
+线程name:50@@@@200
+线程name:94没车
+线程name:47没车
+线程name:51没车
+线程name:60没车
+线程name:32@@@@200
+线程name:51没车
+线程name:51没车
+线程name:47@@@@200
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:68没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:92没车
+线程name:32没车
+线程name:93没车
+线程name:51没车
+线程name:43@@@@200
+线程name:32没车
+线程name:81没车
+线程name:75没车
+线程name:60没车
+线程name:32没车
+线程name:50没车
+线程name:65没车
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:47没车
+线程name:50没车
+线程name:51没车
+线程name:32@@@@200
+线程name:51没车
+线程name:50没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:100没车
+线程name:32没车
+线程name:51没车
+线程name:51没车
+线程name:82没车
+线程name:51没车
+线程name:65没车
+线程name:14没车
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:22没车
+线程name:59没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:50没车
+线程name:32没车
+线程name:68没车
+线程name:50没车
+线程name:51@@@@200
+线程name:94没车
+线程name:59没车
+线程name:68没车
+线程name:50没车
+线程name:43没车
+线程name:50没车
+线程name:51没车
+线程name:47@@@@200
+线程name:32@@@@200
+线程name:50没车
+线程name:51没车
+线程name:47没车
+线程name:68没车
+线程name:51没车
+线程name:50没车
+线程name:51没车
+线程name:90没车
+线程name:51没车
+线程name:47没车
+线程name:51没车
+线程name:75没车
+线程name:43没车
+线程name:51没车
+线程name:47没车
+线程name:51没车
+线程name:51没车
+线程name:47没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:100没车
+线程name:32没车
+线程name:50没车
+线程name:51没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:43没车
+线程name:75没车
+线程name:51没车
+线程name:50没车
+线程name:51没车
+线程name:51没车
+线程name:22没车
+线程name:51没车
+线程name:32@@@@200
+线程name:50没车
+线程name:51@@@@200
+线程name:35没车
+线程name:86没车
+线程name:51没车
+线程name:50没车
+线程name:65没车
+线程name:51没车
+线程name:50没车
+线程name:51没车
+线程name:50没车
+线程name:59没车
+线程name:75没车
+线程name:51没车
+线程name:51没车
+sigleTest通过但线程网络请求出错线程name:27HTTPConnectionPool(host='60.178.87.11', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%8F%91%E8%80%B3&arrStation=%E9%82%A3%E6%9B%B2&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:27
+len(http_ok)=8	len(http_notok)=0
+
+线程name:94没车
+线程name:68没车
+sigleTest通过但线程网络请求出错线程name:96HTTPConnectionPool(host='175.155.224.157', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%80%80%E9%9B%86&arrStation=%E4%B8%80%E9%9D%A2%E5%B1%B1&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:96
+len(http_ok)=5	len(http_notok)=0
+
+线程name:32没车
+线程name:21没车
+线程name:44@@@@200
+线程name:50没车
+线程name:32没车
+线程name:44没车
+线程name:50没车
+线程name:68没车
+线程name:50没车
+线程name:65没车
+线程name:50没车
+线程name:68没车
+线程name:47没车
+线程name:75没车
+线程name:47没车
+线程name:93没车
+线程name:81没车
+线程name:94没车
+线程name:47没车
+线程name:100没车
+线程name:43没车
+线程name:14@@@@200
+线程name:47@@@@200
+线程name:32没车
+线程name:65没车
+线程name:32没车
+线程name:43没车
+线程name:13没车
+线程name:47没车
+线程name:47@@@@200
+线程name:43没车
+线程name:94没车
+线程name:31@@@@200
+线程name:60没车
+线程name:59没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:60没车
+线程name:32没车
+线程name:50没车
+线程name:59没车
+线程name:50没车
+线程name:68没车
+线程name:57没车
+线程name:32没车
+线程name:81没车
+线程name:32@@@@200
+线程name:68没车
+线程name:51没车
+线程name:59@@@@200
+线程name:51没车
+线程name:51没车
+线程name:55没车
+线程name:60没车
+线程name:51没车
+线程name:50没车
+线程name:59没车
+线程name:50没车
+线程name:35没车
+线程name:47@@@@200
+线程name:43没车
+线程name:92没车
+线程name:32没车
+线程name:35没车
+线程name:47没车
+线程name:43没车
+线程name:59没车
+线程name:51没车
+线程name:60没车
+线程name:23没车
+线程name:47没车
+线程name:51@@@@200
+线程name:51没车
+线程name:51没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:51没车
+线程name:59没车
+线程name:81没车
+线程name:51没车
+线程name:68没车
+线程name:81没车
+线程name:59@@@@200
+线程name:75没车
+线程name:32没车
+线程name:55没车
+线程name:55没车
+线程name:65没车
+线程name:59没车
+线程name:32@@@@200
+线程name:32没车
+线程name:51没车
+线程name:65没车
+线程name:32没车
+线程name:51没车
+线程name:93没车
+线程name:52没车
+线程name:51没车
+线程name:81没车
+线程name:68没车
+线程name:68没车
+线程name:32没车
+线程name:68没车
+线程name:32没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:75没车
+线程name:51没车
+线程name:86没车
+线程name:32没车
+线程name:51没车
+线程name:51没车
+线程name:94没车
+线程name:60没车
+线程name:51没车
+线程name:51没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:81没车
+线程name:60没车
+线程name:93没车
+线程name:35没车
+线程name:32没车
+线程name:50没车
+线程name:43没车
+线程name:68没车
+线程name:20没车
+线程name:32@@@@200
+线程name:47没车
+sigleTest通过但线程网络请求出错线程name:33HTTPConnectionPool(host='120.83.103.219', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%89%E5%AE%B6%E5%BA%97&arrStation=%E9%98%B3%E6%B3%89%E5%8C%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1131f6048>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:33
+len(http_ok)=0	len(http_notok)=0
+
+线程name:23没车
+sigleTest通过但线程网络请求出错线程name:82HTTPConnectionPool(host='115.215.71.116', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%9D%AA%E7%9F%B3&arrStation=%E4%B8%8B%E7%A4%BE&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:82
+len(http_ok)=10	len(http_notok)=0
+
+线程name:43没车
+线程name:23没车
+线程name:23没车
+线程name:32没车
+线程name:50没车
+线程name:47@@@@200
+线程name:50没车
+线程name:75没车
+线程name:43没车
+线程name:47没车
+线程name:81没车
+线程name:68没车
+线程name:81没车
+线程name:32没车
+线程name:75没车
+线程name:51没车
+线程name:50没车
+线程name:32没车
+线程name:73没车
+线程name:68没车
+线程name:32没车
+线程name:32没车
+线程name:51没车
+线程name:51没车
+线程name:47没车
+线程name:68没车
+线程name:32没车
+线程name:51没车
+线程name:68没车
+sigleTest通过但线程网络请求出错线程name:17HTTPConnectionPool(host='59.127.38.117', port=8080): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A8%84%E5%BA%95%E5%8D%97&arrStation=%E5%8F%8C%E6%B5%81%E8%A5%BF&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1131b7320>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:17
+len(http_ok)=1	len(http_notok)=0
+
+线程name:51没车
+线程name:68没车
+线程name:68没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:20没车
+线程name:43没车
+线程name:65没车
+线程name:55没车
+线程name:32没车
+线程name:43@@@@200
+线程name:47没车
+线程name:34没车
+线程name:65没车
+线程name:47没车
+线程name:47没车
+线程name:32没车
+线程name:50@@@@200
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:90没车
+线程name:34没车
+线程name:32没车
+线程name:68没车
+线程name:32没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:65没车
+线程name:94没车
+线程name:51没车
+sigleTest通过但线程网络请求出错线程name:20'data'
+
+the thread is over线程name:20
+len(http_ok)=9	len(http_notok)=0
+
+线程name:51@@@@200
+线程name:51没车
+线程name:32没车
+线程name:51没车
+线程name:23没车
+线程name:51没车
+线程name:43没车
+线程name:32没车
+线程name:51没车
+线程name:47没车
+线程name:86没车
+线程name:43没车
+线程name:47没车
+线程name:13没车
+线程name:47没车
+线程name:43没车
+线程name:81没车
+线程name:32没车
+线程name:47没车
+线程name:68没车
+线程name:42没车
+线程name:81没车
+线程name:32没车
+线程name:47@@@@200
+线程name:81没车
+线程name:68没车
+线程name:51没车
+线程name:47没车
+线程name:35没车
+线程name:68没车
+线程name:35没车
+线程name:57没车
+sigleTest通过但线程网络请求出错线程name:68'data'
+
+the thread is over线程name:68
+len(http_ok)=37	len(http_notok)=0
+
+线程name:84没车
+线程name:35没车
+线程name:32没车
+线程name:35没车
+线程name:32没车
+线程name:42没车
+线程name:32没车
+线程name:35没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:23没车
+线程name:32没车
+线程name:43没车
+线程name:34没车
+线程name:43没车
+线程name:32没车
+线程name:81没车
+线程name:32没车
+线程name:47没车
+线程name:32@@@@200
+线程name:32没车
+线程name:65没车
+线程name:75没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:22没车
+线程name:51没车
+线程name:35没车
+线程name:32没车
+线程name:32@@@@200
+线程name:51没车
+线程name:51没车
+线程name:32没车
+线程name:75没车
+线程name:34没车
+线程name:65没车
+线程name:32没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:64没车
+线程name:32没车
+线程name:51没车
+线程name:51没车
+线程name:32@@@@200
+线程name:51没车
+线程name:43没车
+线程name:32没车
+线程name:43没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:100HTTPConnectionPool(host='115.215.70.140', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B9%8C%E6%B5%B7%E8%A5%BF&arrStation=%E4%B8%9C%E8%8E%9E&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:100
+len(http_ok)=24	len(http_notok)=0
+
+线程name:65没车
+线程name:34没车
+线程name:32没车
+线程name:32没车
+线程name:43没车
+线程name:32没车
+线程name:64没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:51没车
+线程name:75没车
+线程name:32@@@@200
+线程name:65没车
+线程name:43没车
+线程name:32没车
+线程name:43没车
+线程name:35没车
+线程name:32@@@@200
+线程name:32没车
+线程name:43没车
+线程name:42没车
+线程name:32@@@@200
+线程name:64没车
+线程name:43没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:47没车
+线程name:60没车
+线程name:50没车
+线程name:65没车
+线程name:32@@@@200
+线程name:42没车
+线程name:51没车
+线程name:50没车
+线程name:32没车
+线程name:94没车
+线程name:32没车
+线程name:75没车
+线程name:32没车
+线程name:86没车
+线程name:47没车
+线程name:32没车
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:21没车
+线程name:51没车
+线程name:65没车
+线程name:51没车
+线程name:34没车
+线程name:47没车
+线程name:32@@@@200
+线程name:51没车
+线程name:64没车
+线程name:65没车
+线程name:32没车
+线程name:42@@@@200
+线程name:50没车
+线程name:65没车
+线程name:50没车
+线程name:13没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:90没车
+线程name:32没车
+线程name:51没车
+线程name:51没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:59没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:51没车
+线程name:59没车
+线程name:65没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:64没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:43没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:42没车
+线程name:32没车
+线程name:59没车
+线程name:50没车
+线程name:32没车
+线程name:42没车
+线程name:32没车
+线程name:57没车
+线程name:55没车
+线程name:32没车
+线程name:50没车
+线程name:81没车
+线程name:47没车
+线程name:50没车
+线程name:92没车
+线程name:81没车
+线程name:55没车
+线程name:32@@@@200
+线程name:32没车
+线程name:43没车
+线程name:34没车
+线程name:50没车
+线程name:50@@@@200
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:65没车
+线程name:59@@@@200
+线程name:50没车
+线程name:50没车
+线程name:51没车
+线程name:51没车
+线程name:51没车
+线程name:59没车
+线程name:86没车
+线程name:51没车
+线程name:59没车
+线程name:50没车
+线程name:47没车
+线程name:51没车
+线程name:59没车
+线程name:64没车
+线程name:43没车
+线程name:32没车
+线程name:32没车
+线程name:43没车
+线程name:32没车
+线程name:51没车
+线程name:32没车
+线程name:22没车
+线程name:94没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:64没车
+线程name:32没车
+线程name:34没车
+线程name:47没车
+线程name:92没车
+线程name:90没车
+线程name:47没车
+线程name:64没车
+线程name:47@@@@200
+线程name:65没车
+线程name:47没车
+线程name:32没车
+线程name:59没车
+线程name:50没车
+线程name:43没车
+线程name:32@@@@200
+线程name:64没车
+线程name:65没车
+线程name:32@@@@200
+线程name:51没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:52没车
+线程name:84没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:65没车
+线程name:47@@@@200
+线程name:22没车
+线程name:13没车
+线程name:43没车
+线程name:47没车
+线程name:59没车
+线程name:42没车
+线程name:43没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:43没车
+线程name:32没车
+线程name:50@@@@200
+线程name:51没车
+线程name:23没车
+线程name:64没车
+线程name:42没车
+线程name:59没车
+线程name:59没车
+线程name:47没车
+线程name:59没车
+线程name:32@@@@200
+线程name:50没车
+线程name:86没车
+线程name:32没车
+线程name:50没车
+线程name:47没车
+线程name:50没车
+线程name:42没车
+线程name:47没车
+线程name:59没车
+线程name:47没车
+线程name:64没车
+线程name:47没车
+线程name:47没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:22没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:44@@@@200
+线程name:44没车
+线程name:50没车
+线程name:50没车
+线程name:59没车
+线程name:65没车
+线程name:32@@@@200
+线程name:44没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:47没车
+线程name:42没车
+线程name:32@@@@200
+线程name:32没车
+线程name:44没车
+线程name:44没车
+线程name:50没车
+线程name:44没车
+线程name:32@@@@200
+线程name:57没车
+线程name:64@@@@200
+线程name:44没车
+线程name:50没车
+线程name:32没车
+线程name:44没车
+线程name:44没车
+线程name:44没车
+线程name:94没车
+线程name:64没车
+线程name:32没车
+线程name:50没车
+线程name:47没车
+线程name:32没车
+线程name:44没车
+线程name:47没车
+线程name:32没车
+线程name:93没车
+线程name:73没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:42没车
+线程name:64没车
+线程name:50没车
+线程name:59没车
+线程name:86没车
+线程name:55没车
+线程name:55没车
+线程name:32没车
+线程name:32没车
+线程name:64没车
+线程name:32没车
+线程name:59没车
+线程name:60没车
+线程name:32@@@@200
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:50@@@@200
+线程name:31@@@@200
+线程name:32没车
+线程name:59没车
+线程name:47没车
+线程name:47没车
+线程name:32没车
+线程name:35没车
+线程name:32没车
+线程name:65没车
+sigleTest通过但线程网络请求出错线程name:14HTTPConnectionPool(host='60.167.135.0', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B0%BC%E5%8B%92%E5%85%8B&arrStation=%E5%8F%8C%E5%B3%B0%E5%8C%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10eefe6a0>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:14
+len(http_ok)=3	len(http_notok)=0
+
+线程name:47没车
+线程name:47没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32@@@@200
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:22没车
+线程name:64没车
+线程name:13没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:52没车
+线程name:50没车
+线程name:47没车
+线程name:21没车
+线程name:47没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:64没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:75@@@@200
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:22@@@@200
+线程name:32没车
+线程name:81没车
+线程name:32没车
+线程name:81@@@@200
+线程name:32没车
+线程name:32没车
+线程name:81没车
+线程name:50没车
+线程name:32没车
+线程name:81没车
+线程name:86没车
+线程name:32没车
+线程name:32没车
+线程name:47没车
+线程name:84没车
+线程name:32没车
+线程name:32没车
+线程name:47没车
+线程name:64没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:42没车
+线程name:32没车
+线程name:47没车
+线程name:50没车
+线程name:60没车
+线程name:32@@@@200
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:50没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:47没车
+线程name:57没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:31没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:32没车
+线程name:60没车
+线程name:32没车
+线程name:42没车
+线程name:64没车
+线程name:32@@@@200
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:34没车
+线程name:32@@@@200
+线程name:60@@@@200
+线程name:59没车
+线程name:94没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:47没车
+线程name:60没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:60没车
+线程name:32没车
+线程name:59没车
+线程name:34没车
+线程name:59没车
+线程name:32没车
+线程name:86没车
+线程name:32没车
+线程name:34没车
+线程name:23没车
+线程name:59没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:60@@@@200
+线程name:43没车
+线程name:13没车
+线程name:93没车
+线程name:32没车
+线程name:43没车
+线程name:60没车
+线程name:47没车
+线程name:59没车
+线程name:35没车
+线程name:32没车
+线程name:50没车
+线程name:92@@@@200
+线程name:34没车
+线程name:32@@@@200
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:22没车
+线程name:32没车
+线程name:73没车
+线程name:50没车
+线程name:32没车
+线程name:34没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:43没车
+线程name:50没车
+线程name:59没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:59没车
+线程name:32@@@@200
+线程name:60@@@@200
+线程name:59没车
+线程name:42没车
+线程name:35没车
+线程name:47没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:86没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:43没车
+线程name:32没车
+线程name:34没车
+线程name:47没车
+线程name:32没车
+线程name:50@@@@200
+线程name:43没车
+线程name:32没车
+线程name:32@@@@200
+线程name:50没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:43没车
+线程name:34没车
+线程name:32没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:75没车
+线程name:32没车
+线程name:43没车
+线程name:32@@@@200
+线程name:35没车
+线程name:32没车
+线程name:50没车
+线程name:34没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:47@@@@200
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:81@@@@200
+线程name:32@@@@200
+线程name:81没车
+线程name:32没车
+线程name:81@@@@200
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:44没车
+线程name:32@@@@200
+sigleTest通过但线程网络请求出错线程name:52HTTPConnectionPool(host='180.118.243.73', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%89%E5%BA%B7&arrStation=%E9%9B%81%E8%8D%A1%E5%B1%B1&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:52
+len(http_ok)=4	len(http_notok)=0
+
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:75没车
+线程name:50没车
+线程name:32没车
+线程name:44没车
+线程name:44没车
+线程name:75没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:44没车
+线程name:81没车
+线程name:47没车
+线程name:44没车
+线程name:50没车
+线程name:32没车
+线程name:47没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:75没车
+线程name:86没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:13没车
+线程name:92没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:59@@@@200
+线程name:32没车
+线程name:31没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:35没车
+线程name:59@@@@200
+线程name:50没车
+线程name:32没车
+线程name:43没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:55@@@@200
+线程name:32没车
+线程name:34没车
+线程name:22没车
+线程name:32@@@@200
+线程name:32没车
+线程name:32没车
+线程name:43没车
+线程name:59没车
+线程name:55没车
+线程name:32@@@@200
+线程name:86没车
+线程name:32没车
+线程name:92没车
+线程name:93没车
+线程name:32没车
+线程name:50@@@@200
+线程name:50没车
+线程name:34没车
+线程name:50没车
+线程name:21没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:94没车
+线程name:42没车
+线程name:32@@@@200
+线程name:43没车
+线程name:32没车
+线程name:55没车
+线程name:32没车
+线程name:47没车
+线程name:55没车
+线程name:43没车
+线程name:32没车
+线程name:47没车
+线程name:60没车
+线程name:50没车
+线程name:55没车
+线程name:47没车
+线程name:42没车
+线程name:84没车
+线程name:47没车
+线程name:93没车
+线程name:47没车
+线程name:34没车
+线程name:65没车
+线程name:32没车
+线程name:32没车
+线程name:42没车
+线程name:75没车
+线程name:64没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:86没车
+线程name:47没车
+线程name:47没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:47没车
+线程name:34没车
+线程name:32没车
+线程name:32没车
+线程name:47@@@@200
+线程name:59没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:59没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:65没车
+线程name:59没车
+线程name:32没车
+线程name:31@@@@200
+线程name:64没车
+线程name:59没车
+线程name:50没车
+线程name:65没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:92没车
+线程name:81没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:34没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:90HTTPConnectionPool(host='113.58.235.204', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%89%8D%E8%8B%87%E5%A1%98&arrStation=%E4%B8%9C&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x11303e828>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:90
+len(http_ok)=10	len(http_notok)=0
+
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:86没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:50没车
+线程name:43没车
+线程name:42没车
+线程name:32没车
+线程name:43没车
+线程name:81没车
+线程name:32没车
+线程name:59没车
+线程name:81没车
+线程name:32没车
+线程name:32没车
+线程name:43没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:43没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:47没车
+线程name:50没车
+线程name:43没车
+线程name:47没车
+线程name:50没车
+线程name:34没车
+sigleTest通过但线程网络请求出错线程name:51HTTPConnectionPool(host='183.131.19.233', port=3128): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%BB%99%E4%BA%BA%E6%A1%A5&arrStation=%E9%9C%B8%E5%B7%9E&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x113219eb8>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:51
+len(http_ok)=197	len(http_notok)=0
+
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:86没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:31@@@@200
+线程name:65没车
+线程name:32没车
+线程name:32没车
+线程name:42@@@@200
+线程name:32没车
+线程name:32@@@@200
+线程name:32@@@@200
+线程name:47没车
+线程name:50没车
+线程name:32没车
+线程name:75没车
+线程name:13没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:47没车
+线程name:43没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:84没车
+线程name:47没车
+线程name:50没车
+线程name:75没车
+线程name:50没车
+线程name:43没车
+线程name:50没车
+线程name:32没车
+线程name:86没车
+线程name:43没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:60没车
+线程name:32没车
+线程name:43没车
+线程name:50没车
+线程name:47没车
+线程name:60没车
+线程name:50没车
+线程name:59没车
+线程name:50没车
+线程name:32没车
+线程name:47没车
+线程name:47没车
+线程name:44没车
+线程name:75没车
+线程name:50没车
+线程name:32没车
+线程name:44没车
+线程name:32@@@@200
+线程name:44没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:34没车
+线程name:43没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:43HTTPConnectionPool(host='119.5.0.118', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%89%E5%AE%B6%E5%BA%97&arrStation=%E9%9D%96%E8%BE%B9&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:43
+len(http_ok)=83	len(http_notok)=0
+
+线程name:32没车
+线程name:86没车
+线程name:32没车
+线程name:35没车
+线程name:32没车
+线程name:50没车
+线程name:59没车
+线程name:44没车
+线程name:60没车
+线程name:65没车
+线程name:50没车
+线程name:34没车
+线程name:59没车
+线程name:42没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:32@@@@200
+线程name:75@@@@200
+线程name:50没车
+线程name:59没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:42没车
+线程name:59没车
+线程name:31没车
+线程name:32没车
+线程name:75没车
+线程name:35没车
+线程name:32@@@@200
+线程name:44没车
+线程name:32没车
+线程name:50没车
+线程name:44没车
+线程name:59没车
+线程name:35没车
+线程name:50没车
+线程name:35没车
+线程name:13没车
+线程name:59@@@@200
+线程name:60没车
+线程name:50@@@@200
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:42没车
+线程name:86没车
+线程name:59没车
+线程name:47没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:47没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:44没车
+线程name:59没车
+线程name:50没车
+线程name:35没车
+线程name:81没车
+线程name:75@@@@200
+线程name:81没车
+线程name:59没车
+线程name:81没车
+线程name:44没车
+线程name:32@@@@200
+线程name:81没车
+线程name:32没车
+线程name:81没车
+线程name:94没车
+线程name:59没车
+线程name:81没车
+线程name:32没车
+线程name:60没车
+线程name:32没车
+线程name:50没车
+线程name:32@@@@200
+线程name:50没车
+线程name:32没车
+线程name:59没车
+线程name:75没车
+线程name:86没车
+线程name:50没车
+线程name:42没车
+线程name:59没车
+线程name:44没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:84没车
+线程name:32没车
+线程name:50没车
+线程name:35没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:59没车
+线程name:44没车
+线程name:86没车
+线程name:50没车
+线程name:59没车
+线程name:50没车
+线程name:50没车
+线程name:34没车
+线程name:32没车
+线程name:47没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:60没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:86没车
+线程name:59没车
+线程name:60没车
+线程name:59没车
+线程name:44没车
+线程name:32@@@@200
+线程name:34没车
+线程name:50没车
+线程name:32没车
+线程name:32@@@@200
+线程name:32没车
+线程name:32没车
+线程name:86没车
+线程name:13没车
+线程name:32没车
+线程name:59没车
+线程name:44没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:75没车
+线程name:50没车
+线程name:59没车
+线程name:44没车
+线程name:93没车
+线程name:44没车
+线程name:21没车
+线程name:75没车
+线程name:32没车
+线程name:50没车
+线程name:32@@@@200
+线程name:59没车
+线程name:50@@@@200
+线程name:59没车
+线程name:55没车
+线程name:86没车
+线程name:59没车
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:92HTTPConnectionPool(host='60.167.132.68', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A8%81%E8%88%8D&arrStation=%E9%BB%91%E5%86%B2%E6%BB%A9&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:92
+len(http_ok)=8	len(http_notok)=0
+
+线程name:32@@@@200
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32@@@@200
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32@@@@200
+线程name:13没车
+线程name:32没车
+线程name:55没车
+线程name:59没车
+线程name:32没车
+线程name:31没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:59没车
+线程name:32没车
+线程name:73没车
+线程name:32没车
+线程name:86没车
+线程name:59没车
+线程name:32没车
+线程name:94没车
+线程name:55没车
+线程name:50没车
+线程name:59没车
+线程name:32没车
+线程name:93没车
+线程name:60没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:84没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:75没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:13没车
+线程name:32没车
+线程name:75没车
+线程name:50没车
+线程name:32@@@@200
+线程name:32没车
+线程name:65没车
+线程name:32没车
+线程name:75没车
+线程name:32没车
+线程name:60没车
+线程name:13没车
+线程name:50没车
+线程name:75没车
+线程name:23没车
+线程name:60没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:35没车
+线程name:32没车
+线程name:50没车
+线程name:75没车
+线程name:50没车
+线程name:81没车
+线程name:13没车
+线程name:50没车
+线程name:59没车
+线程name:81没车
+线程name:32没车
+线程name:50没车
+线程name:47没车
+线程name:50没车
+线程name:32没车
+线程name:65没车
+线程name:59没车
+线程name:42没车
+线程name:13没车
+线程name:32没车
+线程name:50没车
+线程name:47没车
+线程name:32没车
+线程name:42没车
+线程name:50没车
+线程name:34没车
+线程name:75没车
+线程name:32没车
+线程name:81没车
+线程name:81没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:32@@@@200
+线程name:34没车
+线程name:75没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:65没车
+线程name:50没车
+线程name:35没车
+线程name:47没车
+线程name:34没车
+线程name:59没车
+线程name:86没车
+线程name:13没车
+线程name:32没车
+线程name:47没车
+线程name:32@@@@200
+线程name:47没车
+线程name:59没车
+线程name:34没车
+线程name:81没车
+线程name:59没车
+线程name:50没车
+线程name:32没车
+线程name:23没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:13没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:35没车
+线程name:32没车
+线程name:75没车
+线程name:35没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:65没车
+sigleTest通过但线程网络请求出错线程name:22HTTPConnectionPool(host='60.167.135.176', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%A3%E6%B1%89&arrStation=%E6%B1%9F%E6%BA%90&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1131ab3c8>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:22
+len(http_ok)=14	len(http_notok)=0
+
+线程name:50没车
+线程name:81没车
+线程name:50没车
+线程name:50没车
+线程name:13没车
+线程name:50没车
+线程name:32@@@@200
+线程name:59没车
+线程name:94没车
+线程name:32没车
+线程name:60没车
+线程name:32@@@@200
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:35没车
+线程name:31没车
+线程name:32没车
+线程name:13没车
+线程name:32没车
+线程name:60没车
+线程name:50没车
+线程name:59没车
+线程name:32没车
+线程name:65@@@@200
+线程name:50没车
+线程name:32没车
+线程name:81没车
+线程name:75没车
+线程name:50@@@@200
+线程name:32没车
+线程name:59没车
+线程name:50没车
+线程name:32@@@@200
+线程name:32没车
+线程name:65没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:13没车
+线程name:59没车
+线程name:65没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:60没车
+线程name:50没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:13没车
+线程name:75没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:34没车
+线程name:75没车
+线程name:32没车
+线程name:32没车
+线程name:44没车
+线程name:50没车
+线程name:32@@@@200
+线程name:50没车
+线程name:59没车
+线程name:50没车
+线程name:60没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:31没车
+线程name:32没车
+线程name:86没车
+线程name:84没车
+线程name:44没车
+线程name:32没车
+线程name:13没车
+线程name:75@@@@200
+线程name:34没车
+线程name:65没车
+线程name:32@@@@200
+线程name:50没车
+线程name:32@@@@200
+sigleTest通过但线程网络请求出错线程name:64HTTPConnectionPool(host='121.207.41.145', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%8D%97%E5%8F%A3%E5%89%8D&arrStation=%E9%BB%84%E5%B1%B1%E5%8C%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x112f713c8>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:64
+len(http_ok)=22	len(http_notok)=0
+
+线程name:32没车
+线程name:75没车
+线程name:93没车
+线程name:32没车
+线程name:65没车
+线程name:50没车
+线程name:44没车
+线程name:13没车
+线程name:32没车
+线程name:32没车
+线程name:75没车
+线程name:32没车
+线程name:44没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:50没车
+线程name:60没车
+线程name:32没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:32@@@@200
+线程name:32@@@@200
+线程name:59没车
+线程name:32没车
+线程name:65没车
+线程name:50没车
+线程name:13没车
+线程name:34没车
+线程name:60没车
+线程name:32没车
+线程name:65没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:34没车
+线程name:50没车
+线程name:32没车
+线程name:60没车
+线程name:23没车
+线程name:32没车
+线程name:55@@@@200
+线程name:59没车
+线程name:32@@@@200
+线程name:50没车
+线程name:34没车
+线程name:65没车
+线程name:60没车
+线程name:81没车
+线程name:59没车
+线程name:13没车
+线程name:81没车
+线程name:81没车
+线程name:59没车
+线程name:59没车
+线程name:50@@@@200
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:59没车
+线程name:32没车
+线程name:59没车
+线程name:55没车
+线程name:60没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:94没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:50@@@@200
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:65没车
+线程name:13没车
+线程name:32没车
+线程name:50没车
+线程name:21没车
+线程name:32@@@@200
+线程name:55没车
+线程name:32@@@@200
+线程name:86没车
+线程name:32没车
+线程name:59没车
+线程name:50没车
+线程name:32没车
+线程name:32@@@@200
+线程name:13没车
+线程name:32@@@@200
+线程name:50没车
+线程name:59没车
+线程name:32没车
+线程name:50没车
+线程name:65没车
+线程name:34没车
+线程name:50没车
+线程name:50没车
+线程name:31没车
+线程name:32没车
+线程name:81没车
+线程name:50没车
+线程name:59没车
+线程name:81@@@@200
+线程name:13@@@@200
+线程name:81没车
+线程name:59没车
+线程name:32没车
+线程name:50没车
+线程name:35没车
+线程name:23没车
+线程name:84没车
+线程name:50没车
+线程name:13没车
+线程name:42没车
+线程name:32没车
+线程name:50没车
+线程name:81没车
+线程name:34没车
+线程name:60没车
+线程name:32@@@@200
+线程name:59没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:13@@@@200
+线程name:59没车
+线程name:81没车
+线程name:50没车
+线程name:50没车
+线程name:55没车
+线程name:50没车
+线程name:32没车
+线程name:59没车
+线程name:23没车
+线程name:42没车
+线程name:32没车
+线程name:13没车
+线程name:59没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:59没车
+线程name:50没车
+线程name:50没车
+线程name:13没车
+线程name:50没车
+线程name:35没车
+线程name:73没车
+线程name:32@@@@200
+线程name:31没车
+线程name:50没车
+线程name:50没车
+线程name:65没车
+线程name:13没车
+线程name:42没车
+线程name:81没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:65没车
+线程name:34没车
+线程name:31没车
+线程name:59没车
+线程name:60没车
+线程name:23没车
+线程name:32没车
+线程name:55没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:86没车
+线程name:32没车
+线程name:65没车
+线程name:59没车
+线程name:50@@@@200
+线程name:60没车
+线程name:81没车
+线程name:59没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:65没车
+线程name:60没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:42没车
+线程name:44没车
+线程name:60没车
+线程name:32没车
+线程name:65@@@@200
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:75没车
+线程name:50没车
+线程name:50没车
+线程name:81没车
+线程name:81没车
+线程name:60@@@@200
+线程name:81没车
+线程name:32没车
+线程name:44没车
+线程name:44没车
+线程name:44没车
+线程name:50没车
+线程name:35没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:44没车
+线程name:32没车
+线程name:81没车
+线程name:42没车
+线程name:75没车
+线程name:32没车
+线程name:65没车
+线程name:32@@@@200
+线程name:59@@@@200
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:75没车
+线程name:42@@@@200
+线程name:34没车
+线程name:35没车
+线程name:44没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:65没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:44没车
+线程name:81没车
+线程name:42没车
+线程name:32@@@@200
+线程name:44没车
+线程name:32没车
+线程name:32没车
+线程name:42没车
+线程name:35没车
+线程name:32没车
+线程name:23没车
+线程name:32没车
+线程name:34没车
+线程name:75没车
+线程name:44没车
+线程name:44没车
+线程name:44没车
+线程name:44没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:75没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:44没车
+线程name:32没车
+线程name:34没车
+线程name:34没车
+线程name:32@@@@200
+线程name:65没车
+线程name:86没车
+sigleTest通过但线程网络请求出错线程name:93HTTPConnectionPool(host='115.213.177.83', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%9A%E8%BE%B9&arrStation=%E4%B8%87%E6%BA%90&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:93
+len(http_ok)=31	len(http_notok)=0
+
+线程name:32没车
+sigleTest通过但线程网络请求出错线程name:13HTTPConnectionPool(host='218.64.93.102', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%98%86%E9%98%B3&arrStation=%E5%8D%9A%E7%99%BD&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:13
+len(http_ok)=33	len(http_notok)=0
+
+线程name:34没车
+线程name:32没车
+线程name:42没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:42没车
+线程name:34没车
+线程name:60没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:73没车
+线程name:60没车
+线程name:42没车
+线程name:32没车
+线程name:34没车
+sigleTest通过但线程网络请求出错线程name:42HTTPConnectionPool(host='114.227.32.26', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%BC%A5%E5%8B%92&arrStation=%E9%99%B6%E5%AE%B6%E5%B1%AF&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:42
+len(http_ok)=40	len(http_notok)=0
+
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:23没车
+线程name:50没车
+线程name:32没车
+线程name:34没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+sigleTest通过但线程网络请求出错线程name:59HTTPConnectionPool(host='119.5.0.62', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A1%98%E8%B1%B9&arrStation=%E9%B9%B0%E6%89%8B%E8%90%A5%E5%AD%90&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:59
+len(http_ok)=173	len(http_notok)=0
+
+线程name:60没车
+线程name:50没车
+线程name:50没车
+线程name:86没车
+线程name:50没车
+线程name:50没车
+线程name:60没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:81没车
+线程name:32没车
+线程name:32@@@@200
+线程name:34没车
+线程name:55没车
+线程name:60没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:60没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:35没车
+线程name:50没车
+线程name:50@@@@200
+线程name:81没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:34没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:75没车
+线程name:32没车
+线程name:60没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:60没车
+线程name:32没车
+线程name:34没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:55没车
+线程name:50没车
+线程name:32没车
+线程name:50@@@@200
+线程name:32没车
+线程name:86没车
+线程name:50没车
+线程name:32@@@@200
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:23没车
+线程name:32没车
+线程name:32没车
+线程name:50@@@@200
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:65没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:50没车
+线程name:65没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:94没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:60没车
+线程name:23没车
+线程name:86没车
+线程name:73没车
+线程name:65没车
+线程name:81没车
+线程name:32没车
+线程name:60没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:65@@@@200
+线程name:50没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+sigleTest通过但线程网络请求出错线程name:34HTTPConnectionPool(host='121.226.154.195', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%85%AD%E5%90%88&arrStation=%E9%93%9C%E4%BB%81%E5%8D%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:34
+len(http_ok)=86	len(http_notok)=0
+
+线程name:32没车
+线程name:50没车
+线程name:86没车
+线程name:32没车
+线程name:50没车
+线程name:81没车
+线程name:32没车
+线程name:60没车
+线程name:50没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:35没车
+线程name:50没车
+线程name:32@@@@200
+线程name:32没车
+线程name:21没车
+线程name:32没车
+线程name:32没车
+线程name:65没车
+线程name:50没车
+线程name:23没车
+线程name:50没车
+线程name:32@@@@200
+线程name:50没车
+线程name:50没车
+线程name:50没车
+线程name:32@@@@200
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:50没车
+线程name:32@@@@200
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:32没车
+线程name:86没车
+线程name:50没车
+线程name:32没车
+线程name:50没车
+线程name:32没车
+线程name:32@@@@200
+线程name:65没车
+线程name:32没车
+线程name:32没车
+线程name:32@@@@200
+线程name:32没车
+线程name:32没车
+the thread is over线程name:32
+len(http_ok)=1000	len(http_notok)=0
+
+线程name:60没车
+线程name:81@@@@200
+线程name:65没车
+线程name:81没车
+线程name:75没车
+线程name:50没车
+线程name:60没车
+线程name:50没车
+线程name:50没车
+线程name:60没车
+线程name:50没车
+线程name:81没车
+线程name:60没车
+线程name:81没车
+线程name:50没车
+线程name:75没车
+线程name:86没车
+线程name:65没车
+线程name:81没车
+线程name:81没车
+线程name:73@@@@200
+线程name:65没车
+线程name:55没车
+线程name:81没车
+线程name:65没车
+线程name:75没车
+线程name:86没车
+线程name:75没车
+sigleTest通过但线程网络请求出错线程name:44HTTPConnectionPool(host='175.17.227.130', port=8888): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%A7%E5%9F%94&arrStation=%E9%98%BF%E5%B0%94%E5%B1%B1&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1131beac8>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:44
+len(http_ok)=61	len(http_notok)=0
+
+线程name:65@@@@200
+线程name:60没车
+线程name:75@@@@200
+线程name:94没车
+线程name:86没车
+线程name:65没车
+线程name:75没车
+线程name:23没车
+线程name:75没车
+线程name:65没车
+线程name:86没车
+线程name:65没车
+线程name:60@@@@200
+线程name:23没车
+线程name:60@@@@200
+线程name:35没车
+线程name:86没车
+线程name:65没车
+线程name:60没车
+线程name:60没车
+线程name:65没车
+线程name:65@@@@200
+线程name:86没车
+线程name:65没车
+线程name:75没车
+线程name:55没车
+线程name:23没车
+线程name:65没车
+线程name:75没车
+线程name:65没车
+线程name:86没车
+线程name:75没车
+线程name:73没车
+线程name:23没车
+线程name:23没车
+线程name:75没车
+线程name:75没车
+线程name:86没车
+线程name:60没车
+线程name:60没车
+线程name:81没车
+线程name:55没车
+线程name:94没车
+线程name:81没车
+线程name:86没车
+线程name:60没车
+线程name:60没车
+线程name:86没车
+线程name:75没车
+线程name:86没车
+线程name:75没车
+线程name:86没车
+线程name:75没车
+线程name:86没车
+线程name:75@@@@200
+线程name:86没车
+线程name:86没车
+线程name:60@@@@200
+线程name:86没车
+线程name:35没车
+线程name:86@@@@200
+线程name:73没车
+线程name:81没车
+线程name:81没车
+线程name:60没车
+线程name:86没车
+线程name:60没车
+线程name:60没车
+线程name:86没车
+线程name:55@@@@200
+sigleTest通过但线程网络请求出错线程name:75HTTPConnectionPool(host='115.220.4.126', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%BE%B7%E5%B7%9E%E4%B8%9C&arrStation=%E4%B8%89%E6%B1%9F%E5%8D%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:75
+len(http_ok)=71	len(http_notok)=0
+
+线程name:73没车
+线程name:73没车
+线程name:81没车
+线程name:86没车
+线程name:81没车
+线程name:23没车
+线程name:86没车
+线程name:35没车
+线程name:86没车
+线程name:73没车
+线程name:60没车
+线程name:73没车
+线程name:94没车
+线程name:81没车
+线程name:86没车
+线程name:60没车
+线程name:81没车
+线程name:86没车
+线程name:60没车
+线程name:60没车
+线程name:55没车
+线程name:86没车
+线程name:73没车
+线程name:86@@@@200
+线程name:73没车
+线程name:23没车
+线程name:86没车
+线程name:35没车
+sigleTest通过但线程网络请求出错线程name:65HTTPConnectionPool(host='124.161.136.82', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%85%88%E5%88%A9&arrStation=%E9%BB%91%E6%97%BA&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x112fa3c88>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:65
+len(http_ok)=82	len(http_notok)=0
+
+线程name:35没车
+线程name:23没车
+线程name:35没车
+线程name:23没车
+线程name:55没车
+线程name:35没车
+线程name:81没车
+线程name:81没车
+线程name:81@@@@200
+线程name:86没车
+线程name:73没车
+线程name:35没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:86@@@@200
+线程name:81没车
+线程name:73没车
+线程name:86没车
+线程name:73没车
+线程name:73没车
+线程name:73没车
+线程name:60没车
+线程name:86没车
+线程name:55没车
+线程name:23没车
+线程name:86没车
+线程name:86没车
+线程name:81没车
+线程name:81没车
+线程name:86没车
+线程name:81没车
+线程name:35没车
+线程name:60没车
+线程name:86没车
+线程name:81@@@@200
+线程name:81没车
+线程name:86没车
+线程name:35没车
+线程name:86没车
+线程name:35@@@@200
+线程name:55没车
+线程name:81没车
+线程name:23没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:73没车
+线程name:86没车
+线程name:81没车
+线程name:73没车
+线程name:73没车
+线程name:35没车
+线程name:35没车
+线程name:81没车
+线程name:86没车
+线程name:73没车
+线程name:81没车
+线程name:81没车
+线程name:86没车
+线程name:35没车
+线程name:35没车
+线程name:86没车
+线程name:73没车
+线程name:86没车
+线程name:35没车
+线程name:73没车
+线程name:73没车
+线程name:73没车
+线程name:73没车
+线程name:81没车
+线程name:81没车
+线程name:23没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:86没车
+线程name:55没车
+线程name:35没车
+线程name:73没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:35没车
+线程name:73没车
+线程name:81没车
+线程name:81没车
+线程name:35没车
+线程name:86没车
+线程name:35没车
+线程name:81没车
+线程name:55没车
+线程name:35没车
+线程name:94没车
+线程name:35没车
+线程name:81没车
+线程name:35没车
+线程name:86没车
+线程name:60没车
+线程name:35@@@@200
+线程name:73没车
+线程name:73没车
+线程name:73没车
+线程name:73没车
+线程name:73没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:81没车
+线程name:86没车
+线程name:81没车
+线程name:60没车
+线程name:73没车
+线程name:23没车
+线程name:73没车
+线程name:81@@@@200
+线程name:86没车
+线程name:73没车
+线程name:81没车
+线程name:60没车
+线程name:73没车
+线程name:94没车
+线程name:60没车
+线程name:60没车
+线程name:55没车
+线程name:60没车
+线程name:86没车
+线程name:94没车
+线程name:73没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:55没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:81没车
+线程name:94没车
+线程name:86没车
+线程name:94没车
+线程name:81没车
+线程name:94没车
+线程name:94没车
+线程name:35没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94@@@@200
+线程name:94@@@@200
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:86没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:94没车
+线程name:23没车
+线程name:94没车
+sigleTest通过但线程网络请求出错线程name:94'data'
+
+the thread is over线程name:94
+len(http_ok)=75	len(http_notok)=0
+
+线程name:73没车
+线程name:86没车
+线程name:81没车
+线程name:60没车
+线程name:73没车
+线程name:81没车
+线程name:73没车
+线程name:73没车
+线程name:73没车
+线程name:73没车
+线程name:73没车
+线程name:81没车
+线程name:73没车
+线程name:60没车
+线程name:86没车
+线程name:81没车
+线程name:81没车
+线程name:86没车
+线程name:81没车
+线程name:55没车
+线程name:60没车
+线程name:35没车
+线程name:86没车
+线程name:60没车
+线程name:60没车
+线程name:60没车
+线程name:35没车
+线程name:60没车
+线程name:73@@@@200
+线程name:86没车
+线程name:60没车
+线程name:60没车
+线程name:60没车
+线程name:60没车
+线程name:60没车
+线程name:86@@@@200
+线程name:73没车
+线程name:55没车
+线程name:55没车
+线程name:23没车
+线程name:86没车
+线程name:86@@@@200
+线程name:60没车
+线程name:60没车
+线程name:35没车
+线程name:55没车
+线程name:73没车
+线程name:73没车
+线程name:81没车
+线程name:73没车
+线程name:55没车
+线程name:81没车
+线程name:60没车
+线程name:60没车
+线程name:35没车
+线程name:60没车
+线程name:55没车
+线程name:55没车
+线程name:55没车
+线程name:23没车
+线程name:86没车
+线程name:60没车
+线程name:86没车
+线程name:86没车
+线程name:55没车
+线程name:86没车
+线程name:81没车
+线程name:81没车
+线程name:81@@@@200
+线程name:86没车
+线程name:60没车
+线程name:60没车
+线程name:86没车
+线程name:55@@@@200
+线程name:86没车
+线程name:35没车
+线程name:35@@@@200
+线程name:86没车
+线程name:60没车
+线程name:23没车
+线程name:60没车
+线程name:60没车
+线程name:86没车
+线程name:35没车
+线程name:60没车
+线程name:55没车
+sigleTest通过但线程网络请求出错线程name:81HTTPConnectionPool(host='114.218.2.209', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%97%AC%E9%98%B3%E5%8C%97&arrStation=%E9%BE%99%E9%95%87&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:81
+len(http_ok)=146	len(http_notok)=0
+
+线程name:86没车
+线程name:35没车
+线程name:73没车
+线程name:35@@@@200
+线程name:35没车
+线程name:86没车
+线程name:60没车
+线程name:86没车
+线程name:60@@@@200
+线程name:60没车
+线程name:73没车
+线程name:60没车
+线程name:86没车
+线程name:55没车
+线程name:35没车
+线程name:23没车
+线程name:86没车
+线程name:60没车
+线程name:35没车
+线程name:55没车
+线程name:86没车
+线程name:55没车
+线程name:86@@@@200
+线程name:73没车
+线程name:60没车
+线程name:86没车
+线程name:55没车
+线程name:55没车
+线程name:35没车
+线程name:86没车
+线程name:35没车
+线程name:73没车
+线程name:35没车
+线程name:55没车
+线程name:35没车
+线程name:35没车
+线程name:60没车
+线程name:86没车
+线程name:35没车
+线程name:73没车
+线程name:55没车
+线程name:55没车
+线程name:23没车
+线程name:86没车
+线程name:73没车
+线程name:60没车
+线程name:35没车
+线程name:35没车
+线程name:35@@@@200
+线程name:86没车
+线程name:23没车
+线程name:55没车
+线程name:23没车
+线程name:86没车
+线程name:60没车
+线程name:55没车
+线程name:35没车
+线程name:35没车
+线程name:23没车
+线程name:23没车
+线程name:73没车
+线程name:55没车
+线程name:86没车
+线程name:55没车
+线程name:55没车
+线程name:35没车
+线程name:35没车
+线程name:55没车
+线程name:86没车
+线程name:55没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:55@@@@200
+线程name:23没车
+线程name:86没车
+线程name:23没车
+线程name:35没车
+线程name:35没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:35没车
+线程name:35没车
+线程name:23没车
+线程name:86没车
+线程name:23没车
+线程name:23没车
+sigleTest通过但线程网络请求出错线程name:60HTTPConnectionPool(host='125.118.66.94', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%9B%BE%E9%87%8C%E6%B2%B3&arrStation=%E9%BB%84%E5%86%88%E4%B8%9C&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x11303e0b8>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:60
+len(http_ok)=139	len(http_notok)=0
+
+线程name:23没车
+线程name:23没车
+线程name:55没车
+线程name:73没车
+线程name:55没车
+sigleTest通过但线程网络请求出错线程name:86HTTPConnectionPool(host='223.241.53.98', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%A7%E7%9B%98%E7%9F%B3&arrStation=%E4%B8%89%E5%AE%B6%E5%BA%97&date=2017-06-20&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:86
+len(http_ok)=122	len(http_notok)=0
+
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:55没车
+线程name:73没车
+线程name:23没车
+线程name:55@@@@200
+线程name:23没车
+线程name:73没车
+线程name:23没车
+线程name:55没车
+线程name:23没车
+线程name:55没车
+线程name:23没车
+线程name:23没车
+线程name:23@@@@200
+线程name:23没车
+线程name:73没车
+线程name:55没车
+线程name:55没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:55没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:23没车
+线程name:73没车
+线程name:23没车
+线程name:55没车
+线程name:23没车
+线程name:23没车
+线程name:23@@@@200
+线程name:23没车
+线程name:73没车
+线程name:55没车
+线程name:23没车
+线程name:23没车
+线程name:73没车
+线程name:55@@@@200
+线程name:55没车
+线程name:73没车
+线程name:23没车
+线程name:73没车无效ip
+106.46.6.7:808
+无效ip
+218.18.232.29:8080
+sigleTest通过但线程网络请求出错线程name:6'data'
+
+the thread is over线程name:6
+len(http_ok)=1	len(http_notok)=0
+
+线程name:3@@@@200
+the thread is over线程name:2
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:1'data'
+
+the thread is over线程name:1
+len(http_ok)=1	len(http_notok)=0
+
+线程name:8@@@@200
+sigleTest通过但线程网络请求出错线程name:5'data'
+
+the thread is over线程name:5
+len(http_ok)=5	len(http_notok)=0
+
+the thread is over线程name:8
+len(http_ok)=10	len(http_notok)=0
+
+the thread is over线程name:3
+len(http_ok)=10	len(http_notok)=0
+
+the thread is over线程name:10
+len(http_ok)=10	len(http_notok)=0
+
+线程name:4@@@@200
+the thread is over线程name:4
+len(http_ok)=10	len(http_notok)=0
+
+无效ip
+106.46.6.7:808
+sigleTest通过但线程网络请求出错线程name:2'data'
+
+the thread is over线程name:2
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:8'data'
+
+the thread is over线程name:8
+len(http_ok)=4	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:10'data'
+
+the thread is over线程name:10
+len(http_ok)=4	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:5'data'
+
+the thread is over线程name:5
+len(http_ok)=7	len(http_notok)=0
+
+the thread is over线程name:3
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:6'data'
+
+the thread is over线程name:6
+len(http_ok)=2	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:1'data'
+
+the thread is over线程name:1
+len(http_ok)=1	len(http_notok)=0
+
+the thread is over线程name:4
+len(http_ok)=10	len(http_notok)=0
+
+the thread is over线程name:9
+len(http_ok)=10	len(http_notok)=0
+
+无效ip
+106.46.6.7:808
+sigleTest通过但线程网络请求出错线程name:2'data'
+
+the thread is over线程name:2
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+218.18.232.29:8080
+sigleTest通过但线程网络请求出错线程name:3'data'
+
+the thread is over线程name:3
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:5'data'
+
+the thread is over线程name:5
+len(http_ok)=4	len(http_notok)=0
+
+线程name:10@@@@200
+the thread is over线程name:8
+len(http_ok)=10	len(http_notok)=0
+
+the thread is over线程name:4
+len(http_ok)=10	len(http_notok)=0
+
+the thread is over线程name:10
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:1'data'
+
+the thread is over线程name:1
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:6'data'
+
+the thread is over线程name:6
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+222.189.247.39:808
+无效ip
+125.118.65.101:808
+无效ip
+220.162.4.103:808
+无效ip
+110.189.222.39:808
+无效ip
+180.118.243.131:808
+无效ip
+113.123.54.67:28759
+无效ip
+183.63.223.2:63000
+无效ip
+123.169.39.104:808
+sigleTest通过但线程网络请求出错线程name:4'data'
+
+the thread is over线程name:4
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:14'data'
+
+the thread is over线程name:14
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:8'data'
+
+the thread is over线程name:8
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:73'data'
+
+the thread is over线程name:73
+len(http_ok)=1	len(http_notok)=0
+
+线程name:52@@@@200
+线程name:15@@@@200
+无效ip
+222.85.50.131:808
+sigleTest通过但线程网络请求出错线程name:89'data'
+
+the thread is over线程name:89
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:22'data'
+
+the thread is over线程name:22
+len(http_ok)=2	len(http_notok)=0
+
+线程name:93@@@@404
+sigleTest通过但线程网络请求出错线程name:45'data'
+
+the thread is over线程name:45
+len(http_ok)=2	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:95'data'
+
+the thread is over线程name:95
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:74'data'
+
+the thread is over线程name:74
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+123.134.223.137:808
+线程name:40@@@@200
+无效ip
+122.231.39.4:808
+sigleTest通过但线程网络请求出错线程name:93("Connection broken: ConnectionResetError(54, 'Connection reset by peer')", ConnectionResetError(54, 'Connection reset by peer'))
+
+the thread is over线程name:93
+len(http_ok)=0	len(http_notok)=1
+
+sigleTest通过但线程网络请求出错线程name:91'data'
+
+the thread is over线程name:91
+len(http_ok)=2	len(http_notok)=0
+
+线程name:41@@@@200
+无效ip
+123.134.245.29:808
+无效ip
+113.58.235.133:808
+sigleTest通过但线程网络请求出错线程name:82'data'
+
+the thread is over线程name:82
+len(http_ok)=3	len(http_notok)=0
+
+无效ip
+175.155.245.104:808
+无效ip
+27.204.123.149:808
+无效ip
+111.76.225.154:808
+线程name:52@@@@200
+sigleTest通过但线程网络请求出错线程name:37'data'
+
+the thread is over线程name:37
+len(http_ok)=4	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:23'data'
+
+the thread is over线程name:23
+len(http_ok)=4	len(http_notok)=0
+
+线程name:64@@@@200
+无效ip
+27.204.45.75:808
+无效ip
+27.204.112.121:808
+sigleTest通过但线程网络请求出错线程name:100'data'
+
+the thread is over线程name:100
+len(http_ok)=4	len(http_notok)=0
+
+无效ip
+222.95.16.205:808
+无效ip
+180.118.241.156:808
+无效ip
+125.112.192.150:808
+线程name:72@@@@200
+sigleTest通过但线程网络请求出错线程name:40'data'
+
+the thread is over线程name:40
+len(http_ok)=6	len(http_notok)=0
+
+线程name:35@@@@200
+无效ip
+125.112.86.153:808
+sigleTest通过但线程网络请求出错线程name:64'data'
+
+the thread is over线程name:64
+len(http_ok)=7	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:30HTTPConnectionPool(host='182.32.150.22', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%89%E5%8D%81%E5%AE%B6&arrStation=%E4%B8%9C%E8%87%B3&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10ff647b8>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:30
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:36'data'
+
+the thread is over线程name:36
+len(http_ok)=4	len(http_notok)=0
+
+the thread is over线程name:42
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:35'data'
+
+the thread is over线程name:35
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:72'data'
+
+the thread is over线程name:72
+len(http_ok)=9	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:98'data'
+
+the thread is over线程name:98
+len(http_ok)=6	len(http_notok)=0
+
+the thread is over线程name:46
+len(http_ok)=10	len(http_notok)=0
+
+the thread is over线程name:5
+len(http_ok)=10	len(http_notok)=0
+
+the thread is over线程name:15
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:53'data'
+
+the thread is over线程name:53
+len(http_ok)=9	len(http_notok)=0
+
+the thread is over线程name:18
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:58'data'
+
+the thread is over线程name:58
+len(http_ok)=9	len(http_notok)=0
+
+线程name:43@@@@200
+the thread is over线程name:43
+len(http_ok)=10	len(http_notok)=0
+
+the thread is over线程name:52
+len(http_ok)=10	len(http_notok)=0
+
+the thread is over线程name:41
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:13HTTPConnectionPool(host='115.202.169.20', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%8B%E7%A4%BE&arrStation=%E4%B8%8A%E6%B5%B7%E8%A5%BF&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1109bf4e0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:13
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:48'data'
+
+the thread is over线程name:48
+len(http_ok)=7	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:54'data'
+
+the thread is over线程name:54
+len(http_ok)=3	len(http_notok)=0
+
+线程name:1@@@@500
+线程name:60@@@@504
+无效ip
+182.34.20.126:808
+无效ip
+123.160.31.71:8080
+the thread is over线程name:60
+len(http_ok)=9	len(http_notok)=1
+
+sigleTest通过但线程网络请求出错线程name:71HTTPConnectionPool(host='114.229.16.87', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%8A%9A%E5%B7%9E&arrStation=%E4%B8%8A%E8%A5%BF%E9%93%BA&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:71
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:31'data'
+
+the thread is over线程name:31
+len(http_ok)=2	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:63HTTPConnectionPool(host='115.202.162.61', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B4%87%E5%B7%A6&arrStation=%E4%B8%8A%E9%AB%98%E9%95%87&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10fd8c080>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:63
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:38'data'
+
+the thread is over线程name:38
+len(http_ok)=2	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:6HTTPConnectionPool(host='171.13.0.16', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%B9%E9%98%B3%E5%8C%97&arrStation=%E4%B8%80%E9%97%B4%E5%A0%A1&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10fffcd30>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:6
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:87HTTPConnectionPool(host='175.155.242.2', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%BC%80%E9%98%B3&arrStation=%E4%B8%8B%E5%9F%8E%E5%AD%90&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1108e8cf8>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:87
+len(http_ok)=1	len(http_notok)=0
+
+the thread is over线程name:1
+len(http_ok)=9	len(http_notok)=1
+
+线程name:16@@@@200
+sigleTest通过但线程网络请求出错线程name:20HTTPConnectionPool(host='115.220.149.208', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B0%8F%E9%9B%A8%E8%B0%B7&arrStation=%E4%B8%80%E9%97%B4%E5%A0%A1&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10fe88fd0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:20
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:32HTTPConnectionPool(host='115.202.164.137', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A7%9A%E6%B8%A1&arrStation=%E4%B8%89%E6%98%8E&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x11095f2b0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:32
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:16HTTPConnectionPool(host='115.202.183.179', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%92%8C%E7%A1%95&arrStation=%E4%B8%80%E9%97%B4%E5%A0%A1&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1108b8b00>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:16
+len(http_ok)=4	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:3'data'
+
+the thread is over线程name:3
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:65HTTPConnectionPool(host='113.121.245.181', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%BA%8C%E9%BE%99%E5%B1%B1%E5%B1%AF&arrStation=%E4%B8%9C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10fe96c18>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:65
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:21'data'
+
+the thread is over线程name:21
+len(http_ok)=5	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:94HTTPConnectionPool(host='112.239.85.162', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%8B%E5%8F%B0%E5%AD%90&arrStation=%E4%B8%B0%E9%83%BD&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x11097b5f8>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:94
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:24HTTPConnectionPool(host='27.204.64.60', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%AA%E5%8E%9F%E5%8D%97&arrStation=%E4%B8%87%E5%B9%B4&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10fe3a400>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:24
+len(http_ok)=3	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:81HTTPConnectionPool(host='180.118.243.205', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B9%9D%E5%8F%B0%E5%8D%97&arrStation=%E4%B8%9C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10ff19a90>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:81
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:61HTTPConnectionPool(host='115.220.5.243', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%9C%9B%E9%83%BD&arrStation=%E4%B8%8A%E8%99%9E&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x11087e518>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:61
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+123.134.241.143:808
+线程name:11@@@@200
+the thread is over线程name:11
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:26HTTPConnectionPool(host='144.255.49.155', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%89%E5%AE%B6%E5%BA%97&arrStation=%E4%B8%9C%E8%83%9C%E8%A5%BF&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x11097b6a0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:26
+len(http_ok)=0	len(http_notok)=0
+
+无效ip
+119.7.77.110:808
+sigleTest通过但线程网络请求出错线程name:88'data'
+
+the thread is over线程name:88
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:80HTTPConnectionPool(host='175.155.245.159', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%8A%9A%E5%B7%9E&arrStation=%E4%B8%8A%E9%A5%B6&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x110997550>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:80
+len(http_ok)=2	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:12HTTPConnectionPool(host='112.195.159.216', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%89%E7%A9%97&arrStation=%E4%B8%9C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10ff19cf8>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:12
+len(http_ok)=5	len(http_notok)=0
+
+无效ip
+114.238.144.96:808
+无效ip
+123.55.223.138:808
+无效ip
+114.99.2.230:808
+无效ip
+182.41.110.51:808
+无效ip
+58.19.80.42:808
+无效ip
+182.32.169.227:808
+sigleTest通过但线程网络请求出错线程name:6HTTPConnectionPool(host='117.143.109.155', port=80): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%BA%8C%E5%AF%86%E6%B2%B3&arrStation=%E4%BA%9A%E9%BE%99%E6%B9%BE&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+
+the thread is over线程name:6
+len(http_ok)=0	len(http_notok)=0
+
+无效ip
+222.189.244.118:808
+sigleTest通过但线程网络请求出错线程name:3'data'
+
+the thread is over线程name:3
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+163.125.31.19:8118
+无效ip
+221.229.45.33:808
+无效ip
+111.73.83.125:808
+sigleTest通过但线程网络请求出错线程name:1'data'
+
+the thread is over线程name:1
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+114.99.1.4:808
+无效ip
+114.230.31.57:808
+无效ip
+113.123.127.30:808
+线程name:4@@@@200
+无效ip
+113.120.104.76:80
+无效ip
+125.116.175.131:808
+无效ip
+60.178.71.102:808
+线程name:32@@@@200
+线程name:23@@@@200
+无效ip
+60.167.135.25:808
+无效ip
+175.155.241.55:808
+sigleTest通过但线程网络请求出错线程name:97'data'
+
+the thread is over线程name:97
+len(http_ok)=1	len(http_notok)=0
+
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:58HTTPConnectionPool(host='183.166.94.33', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%A9%E6%B4%A5%E5%8D%97&arrStation=%E9%BB%84%E5%86%88%E4%B8%9C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x114ce0588>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:58
+len(http_ok)=1	len(http_notok)=0
+
+线程name:94@@@@200
+无效ip
+113.123.19.56:808
+无效ip
+14.63.226.198:80
+线程name:65@@@@200
+线程name:61@@@@200
+线程name:30@@@@200
+线程name:70@@@@200
+sigleTest通过但线程网络请求出错线程name:73'data'
+
+the thread is over线程name:73
+len(http_ok)=5	len(http_notok)=0
+
+无效ip
+220.179.211.51:808
+线程name:56@@@@200
+线程name:46@@@@200
+线程name:23@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:96'data'
+
+the thread is over线程name:96
+len(http_ok)=2	len(http_notok)=0
+
+线程name:25@@@@200
+sigleTest通过但线程网络请求出错线程name:11'data'
+
+the thread is over线程name:11
+len(http_ok)=6	len(http_notok)=0
+
+线程name:4@@@@200
+无效ip
+182.41.110.173:808
+线程name:74@@@@200
+线程name:34@@@@200
+线程name:45@@@@200
+线程name:29@@@@200
+线程name:70@@@@200
+线程name:32@@@@200
+线程name:23@@@@200
+线程name:59@@@@200
+线程name:61@@@@200
+sigleTest通过但线程网络请求出错线程name:79'data'
+
+the thread is over线程name:79
+len(http_ok)=8	len(http_notok)=0
+
+线程name:25@@@@200
+线程name:41@@@@200
+线程name:23@@@@200
+线程name:64@@@@200
+线程name:67@@@@200
+线程name:87@@@@200
+线程name:24@@@@200
+线程name:54@@@@200
+线程name:32@@@@200
+线程name:65@@@@200
+线程name:64@@@@200
+线程name:51@@@@200
+线程name:30@@@@200
+线程name:38@@@@200
+线程name:51@@@@200
+线程name:87@@@@200
+线程name:51@@@@200
+线程name:10@@@@200
+线程name:48@@@@200
+sigleTest通过但线程网络请求出错线程name:48'data'
+
+the thread is over线程name:48
+len(http_ok)=13	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:87'data'
+
+the thread is over线程name:87
+len(http_ok)=16	len(http_notok)=0
+
+线程name:4@@@@200
+线程name:10@@@@200
+sigleTest通过但线程网络请求出错线程name:94'data'
+
+the thread is over线程name:94
+len(http_ok)=23	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:89HTTPConnectionPool(host='122.244.53.148', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%96%80%E5%96%87%E5%85%B6&arrStation=%E9%BB%84%E9%99%B5&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x114cfb390>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:89
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:4'data'
+
+the thread is over线程name:4
+len(http_ok)=27	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:16'data'
+
+the thread is over线程name:16
+len(http_ok)=11	len(http_notok)=0
+
+线程name:23@@@@200
+sigleTest通过但线程网络请求出错线程name:75HTTPConnectionPool(host='123.55.191.165', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B1%B1%E6%B2%B3%E5%B1%AF&arrStation=%E4%B8%89%E6%98%8E&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x114c98198>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:75
+len(http_ok)=1	len(http_notok)=0
+
+线程name:29@@@@200
+线程name:30@@@@200
+线程name:10@@@@200
+线程name:17@@@@200
+线程name:67@@@@200
+线程name:74@@@@200
+线程name:10@@@@200
+线程name:56@@@@200
+线程name:52@@@@200
+线程name:33@@@@200
+线程name:95@@@@404
+线程name:25@@@@200
+线程name:74@@@@200
+线程name:95@@@@200
+线程name:38@@@@200
+线程name:83@@@@200
+线程name:24@@@@200
+线程name:29@@@@200
+线程name:42@@@@200
+线程name:23@@@@200
+线程name:95@@@@200
+线程name:24@@@@200
+线程name:29@@@@200
+线程name:55@@@@200
+线程name:17@@@@200
+线程name:54@@@@200
+线程name:35@@@@200
+线程name:67@@@@200
+线程name:59@@@@200
+线程name:95@@@@200
+线程name:37@@@@200
+线程name:24@@@@200
+线程name:95@@@@200
+线程name:8@@@@200
+线程name:34@@@@200
+线程name:59@@@@200
+线程name:62@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:64'data'
+
+the thread is over线程name:64
+len(http_ok)=81	len(http_notok)=0
+
+线程name:30@@@@200
+线程name:93@@@@200
+线程name:59@@@@200
+线程name:93@@@@200
+线程name:38@@@@200
+线程name:29@@@@200
+线程name:41@@@@200
+线程name:74@@@@200
+线程name:65@@@@200
+线程name:10@@@@200
+sigleTest通过但线程网络请求出错线程name:90'data'
+
+the thread is over线程name:90
+len(http_ok)=37	len(http_notok)=0
+
+线程name:23@@@@200
+线程name:65@@@@200
+线程name:24@@@@200
+线程name:56@@@@200
+线程name:41@@@@200
+线程name:29@@@@200
+线程name:45@@@@200
+线程name:34@@@@200
+线程name:19@@@@404
+线程name:17@@@@200
+线程name:74@@@@200
+sigleTest通过但线程网络请求出错线程name:45'data'
+
+the thread is over线程name:45
+len(http_ok)=54	len(http_notok)=0
+
+线程name:65@@@@200
+线程name:34@@@@200
+sigleTest通过但线程网络请求出错线程name:19'data'
+
+the thread is over线程name:19
+len(http_ok)=3	len(http_notok)=1
+
+线程name:93@@@@200
+线程name:32@@@@200
+线程name:34@@@@200
+线程name:61@@@@200
+线程name:55@@@@200
+线程name:46@@@@200
+线程name:24@@@@200
+线程name:66@@@@200
+sigleTest通过但线程网络请求出错线程name:88'data'
+
+the thread is over线程name:88
+len(http_ok)=34	len(http_notok)=0
+
+线程name:24@@@@200
+线程name:10@@@@200
+线程name:63@@@@200
+线程name:17@@@@200
+线程name:61@@@@200
+线程name:41@@@@200
+线程name:15@@@@407
+线程name:15@@@@407
+线程name:55@@@@200
+线程name:32@@@@200
+线程name:24@@@@200
+线程name:98@@@@200
+线程name:95@@@@200
+线程name:52@@@@200
+线程name:76@@@@404
+线程name:38@@@@200
+线程name:23@@@@200
+线程name:25@@@@200
+sigleTest通过但线程网络请求出错线程name:29'data'
+
+the thread is over线程name:29
+len(http_ok)=75	len(http_notok)=0
+
+线程name:34@@@@200
+线程name:10@@@@200
+线程name:93@@@@200
+sigleTest通过但线程网络请求出错线程name:61'data'
+
+the thread is over线程name:61
+len(http_ok)=64	len(http_notok)=0
+
+线程name:34@@@@200
+sigleTest通过但线程网络请求出错线程name:17'data'
+
+the thread is over线程name:17
+len(http_ok)=49	len(http_notok)=0
+
+线程name:62@@@@200
+线程name:36@@@@200
+线程name:41@@@@200
+线程name:42@@@@200
+线程name:10@@@@200
+线程name:70@@@@200
+线程name:95@@@@200
+sigleTest通过但线程网络请求出错线程name:24'data'
+
+the thread is over线程name:24
+len(http_ok)=82	len(http_notok)=0
+
+线程name:41@@@@200
+sigleTest通过但线程网络请求出错线程name:41'data'
+
+the thread is over线程name:41
+len(http_ok)=70	len(http_notok)=0
+
+线程name:74@@@@200
+线程name:23@@@@200
+线程name:92@@@@200
+线程name:95@@@@200
+sigleTest通过但线程网络请求出错线程name:95'data'
+
+the thread is over线程name:95
+len(http_ok)=94	len(http_notok)=1
+
+sigleTest通过但线程网络请求出错线程name:47HTTPConnectionPool(host='123.55.3.4', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B9%89%E5%8E%BF&arrStation=%E9%9D%96%E8%BF%9C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x113b25780>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:47
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:10'data'
+
+the thread is over线程name:10
+len(http_ok)=84	len(http_notok)=0
+
+线程name:30@@@@200
+线程name:38@@@@200
+线程name:32@@@@200
+线程name:70@@@@200
+sigleTest通过但线程网络请求出错线程name:70'data'
+
+the thread is over线程name:70
+len(http_ok)=47	len(http_notok)=0
+
+线程name:38@@@@200
+sigleTest通过但线程网络请求出错线程name:46'data'
+
+the thread is over线程name:46
+len(http_ok)=74	len(http_notok)=0
+
+线程name:59@@@@200
+线程name:42@@@@200
+线程name:76@@@@200
+线程name:93@@@@200
+线程name:74@@@@200
+sigleTest通过但线程网络请求出错线程name:93'data'
+
+the thread is over线程name:93
+len(http_ok)=95	len(http_notok)=0
+
+线程name:32@@@@200
+线程name:54@@@@200
+线程name:42@@@@200
+线程name:54@@@@200
+线程name:32@@@@200
+线程name:51@@@@200
+线程name:92@@@@200
+线程name:42@@@@200
+线程name:59@@@@200
+线程name:30@@@@200
+线程name:32@@@@200
+线程name:62@@@@200
+sigleTest通过但线程网络请求出错线程name:18'data'
+
+the thread is over线程name:18
+len(http_ok)=4	len(http_notok)=0
+
+线程name:42@@@@200
+线程name:51@@@@200
+线程name:52@@@@200
+sigleTest通过但线程网络请求出错线程name:33'data'
+
+the thread is over线程name:33
+len(http_ok)=69	len(http_notok)=0
+
+线程name:63@@@@200
+sigleTest通过但线程网络请求出错线程name:42'data'
+
+the thread is over线程name:42
+len(http_ok)=101	len(http_notok)=0
+
+线程name:56@@@@200
+线程name:37@@@@200
+线程name:67@@@@200
+线程name:25@@@@200
+线程name:59@@@@200
+线程name:62@@@@200
+线程name:51@@@@200
+线程name:83@@@@200
+线程name:66@@@@200
+线程name:65@@@@200
+线程name:54@@@@200
+线程name:25@@@@200
+线程name:38@@@@200
+线程name:30@@@@200
+线程name:83@@@@200
+线程name:32@@@@200
+线程name:53@@@@200
+线程name:65@@@@200
+线程name:55@@@@200
+线程name:32@@@@200
+线程name:63@@@@200
+线程name:38@@@@200
+线程name:59@@@@200
+线程name:59@@@@200
+线程name:67@@@@200
+线程name:62@@@@200
+线程name:23@@@@200
+线程name:30@@@@200
+线程name:32@@@@200
+线程name:67@@@@200
+线程name:67@@@@200
+线程name:66@@@@200
+线程name:52@@@@200
+线程name:38@@@@200
+线程name:23@@@@200
+线程name:63@@@@200
+线程name:65@@@@200
+线程name:53@@@@200
+sigleTest通过但线程网络请求出错线程name:83'data'
+
+the thread is over线程name:83
+len(http_ok)=114	len(http_notok)=0
+
+线程name:32@@@@200
+线程name:23@@@@200
+线程name:74@@@@200
+线程name:59@@@@200
+线程name:51@@@@200
+sigleTest通过但线程网络请求出错线程name:12HTTPConnectionPool(host='113.58.234.251', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%BA%B7%E5%BA%84&arrStation=%E5%8D%97%E6%B9%BE%E5%AD%90&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1190bda90>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:12
+len(http_ok)=0	len(http_notok)=0
+
+线程name:23@@@@200
+线程name:35@@@@200
+线程name:32@@@@200
+sigleTest通过但线程网络请求出错线程name:8'data'
+
+the thread is over线程name:8
+len(http_ok)=3	len(http_notok)=0
+
+线程name:59@@@@200
+线程name:55@@@@200
+线程name:74@@@@200
+线程name:30@@@@200
+线程name:65@@@@200
+线程name:32@@@@200
+线程name:59@@@@200
+线程name:25@@@@200
+线程name:52@@@@200
+线程name:25@@@@200
+线程name:52@@@@200
+线程name:38@@@@200
+线程name:74@@@@200
+sigleTest通过但线程网络请求出错线程name:51'data'
+
+the thread is over线程name:51
+len(http_ok)=128	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:54'data'
+
+the thread is over线程name:54
+len(http_ok)=98	len(http_notok)=0
+
+线程name:66@@@@200
+线程name:62@@@@200
+线程name:32@@@@200
+线程name:32@@@@200
+sigleTest通过但线程网络请求出错线程name:30'data'
+
+the thread is over线程name:30
+len(http_ok)=178	len(http_notok)=0
+
+线程name:55@@@@200
+sigleTest通过但线程网络请求出错线程name:35'data'
+
+the thread is over线程name:35
+len(http_ok)=20	len(http_notok)=0
+
+线程name:56@@@@200
+线程name:62@@@@200
+线程name:32@@@@200
+线程name:62@@@@200
+线程name:32@@@@200
+线程name:62@@@@200
+线程name:65@@@@200
+线程name:52@@@@200
+线程name:56@@@@200
+线程name:62@@@@200
+线程name:23@@@@200
+线程name:55@@@@200
+线程name:32@@@@200
+线程name:23@@@@200
+sigleTest通过但线程网络请求出错线程name:26HTTPConnectionPool(host='183.238.152.86', port=8083): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%9D%BE%E5%8E%9F%E5%8C%97&arrStation=%E8%B4%BA%E5%AE%B6%E5%BA%97&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:26
+len(http_ok)=9	len(http_notok)=0
+
+线程name:56@@@@200
+线程name:23@@@@200
+线程name:34@@@@200
+线程name:65@@@@200
+线程name:65@@@@200
+线程name:74@@@@200
+线程name:36@@@@200
+线程name:59@@@@200
+线程name:92@@@@200
+线程name:52@@@@200
+线程name:55@@@@200
+线程name:38@@@@200
+线程name:52@@@@200
+线程name:25@@@@200
+sigleTest通过但线程网络请求出错线程name:32'data'
+
+the thread is over线程name:32
+len(http_ok)=186	len(http_notok)=0
+
+线程name:65@@@@200
+线程name:76@@@@200
+线程name:59@@@@200
+sigleTest通过但线程网络请求出错线程name:63'data'
+
+the thread is over线程name:63
+len(http_ok)=170	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:98'data'
+
+the thread is over线程name:98
+len(http_ok)=35	len(http_notok)=0
+
+线程name:59@@@@200
+线程name:38@@@@200
+线程name:52@@@@200
+线程name:66@@@@200
+线程name:74@@@@200
+线程name:34@@@@200
+sigleTest通过但线程网络请求出错线程name:52'data'
+
+the thread is over线程name:52
+len(http_ok)=136	len(http_notok)=0
+
+线程name:56@@@@200
+线程name:23@@@@200
+线程name:65@@@@200
+线程name:56@@@@200
+线程name:65@@@@200
+线程name:74@@@@200
+线程name:53@@@@200
+线程name:56@@@@200
+线程name:62@@@@200
+线程name:55@@@@200
+线程name:56@@@@200
+线程name:76@@@@200
+线程name:65@@@@200
+线程name:25@@@@200
+线程name:59@@@@200
+线程name:25@@@@200
+sigleTest通过但线程网络请求出错线程name:74'data'
+
+the thread is over线程name:74
+len(http_ok)=186	len(http_notok)=0
+
+线程name:67@@@@200
+sigleTest通过但线程网络请求出错线程name:38'data'
+
+the thread is over线程name:38
+len(http_ok)=198	len(http_notok)=0
+
+线程name:62@@@@200
+sigleTest通过但线程网络请求出错线程name:92'data'
+
+the thread is over线程name:92
+len(http_ok)=74	len(http_notok)=0
+
+线程name:56@@@@200
+线程name:65@@@@200
+线程name:56@@@@200
+线程name:62@@@@200
+线程name:65@@@@200
+线程name:65@@@@200
+线程name:66@@@@200
+线程name:25@@@@200
+线程name:23@@@@200
+线程name:76@@@@200
+线程name:43@@@@200
+线程name:59@@@@200
+线程name:56@@@@200
+线程name:56@@@@200
+线程name:65@@@@200
+线程name:23@@@@200
+线程name:62@@@@200
+线程name:55@@@@200
+线程name:67@@@@200
+线程name:76@@@@200
+线程name:23@@@@200
+线程name:34@@@@200
+线程name:23@@@@200
+sigleTest通过但线程网络请求出错线程name:65'data'
+
+the thread is over线程name:65
+len(http_ok)=300	len(http_notok)=0
+
+线程name:67@@@@200
+线程name:62@@@@200
+线程name:55@@@@200
+线程name:67@@@@200
+线程name:59@@@@200
+线程name:53@@@@200
+sigleTest通过但线程网络请求出错线程name:34'data'
+
+the thread is over线程name:34
+len(http_ok)=235	len(http_notok)=0
+
+线程name:53@@@@200
+线程name:55@@@@200
+线程name:23@@@@200
+线程name:66@@@@200
+线程name:23@@@@200
+线程name:55@@@@200
+线程name:62@@@@200
+线程name:56@@@@200
+sigleTest通过但线程网络请求出错线程name:76'data'
+
+the thread is over线程name:76
+len(http_ok)=104	len(http_notok)=1
+
+sigleTest通过但线程网络请求出错线程name:23'data'
+
+the thread is over线程name:23
+len(http_ok)=261	len(http_notok)=0
+
+线程name:67@@@@200
+线程name:56@@@@200
+线程name:66@@@@200
+sigleTest通过但线程网络请求出错线程name:59'data'
+
+the thread is over线程name:59
+len(http_ok)=252	len(http_notok)=0
+
+线程name:25@@@@200
+线程name:25@@@@200
+线程name:37@@@@200
+线程name:56@@@@200
+线程name:56@@@@200
+线程name:55@@@@200
+线程name:56@@@@200
+线程name:37@@@@200
+线程name:55@@@@200
+线程name:55@@@@200
+无效ip
+60.173.35.210:808
+无效ip
+219.149.46.151:3128
+无效ip
+60.178.6.80:8081
+无效ip
+61.183.8.61:3128
+无效ip
+115.213.176.159:808
+无效ip
+122.241.73.115:808
+sigleTest通过但线程网络请求出错线程name:56'data'
+
+the thread is over线程name:56
+len(http_ok)=300	len(http_notok)=0
+
+无效ip
+120.84.102.155:808
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:55@@@@200
+线程name:53@@@@200
+线程name:67@@@@200
+sigleTest通过但线程网络请求出错线程name:66'data'
+
+the thread is over线程name:66
+len(http_ok)=185	len(http_notok)=0
+
+线程name:37@@@@200
+sigleTest通过但线程网络请求出错线程name:25'data'
+
+the thread is over线程name:25
+len(http_ok)=197	len(http_notok)=0
+
+线程name:62@@@@200
+线程name:67@@@@200
+线程name:55@@@@200
+sigleTest通过但线程网络请求出错线程name:62'data'
+
+the thread is over线程name:62
+len(http_ok)=276	len(http_notok)=0
+
+线程name:55@@@@200
+线程name:67@@@@200
+sigleTest通过但线程网络请求出错线程name:67'data'
+
+the thread is over线程name:67
+len(http_ok)=383	len(http_notok)=0
+
+线程name:55@@@@200
+sigleTest通过但线程网络请求出错线程name:55'data'
+
+the thread is over线程name:55
+len(http_ok)=359	len(http_notok)=0
+
+线程name:37@@@@200
+sigleTest通过但线程网络请求出错线程name:2'data'
+
+the thread is over线程name:2
+len(http_ok)=3	len(http_notok)=0
+
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:37@@@@200
+sigleTest通过但线程网络请求出错线程name:37'data'
+
+the thread is over线程name:37
+len(http_ok)=331	len(http_notok)=0
+
+线程name:53@@@@200
+线程name:15@@@@407
+线程name:15@@@@407
+线程name:68@@@@200
+线程name:15@@@@407
+sigleTest通过但线程网络请求出错线程name:36HTTPConnectionPool(host='112.250.213.212', port=8889): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B1%B1%E5%B8%82&arrStation=%E9%98%BF%E6%8B%89%E5%B1%B1%E5%8F%A3&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x114d184e0>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:36
+len(http_ok)=31	len(http_notok)=0
+
+线程name:60@@@@200
+线程name:15@@@@407
+线程name:15@@@@407
+线程name:15@@@@407
+线程name:15@@@@407
+线程name:40@@@@200
+线程name:68@@@@200
+线程name:53@@@@200
+线程name:53@@@@200
+sigleTest通过但线程网络请求出错线程name:53'data'
+
+the thread is over线程name:53
+len(http_ok)=250	len(http_notok)=0
+
+线程name:15@@@@407
+线程name:15@@@@407
+线程name:43@@@@200
+线程name:68@@@@200
+无效ip
+123.55.223.138:808
+无效ip
+182.41.110.173:808
+无效ip
+58.19.80.42:808
+无效ip
+221.229.44.253:808
+无效ip
+113.123.127.30:808
+无效ip
+163.125.31.19:8118
+无效ip
+114.230.31.57:808
+sigleTest通过但线程网络请求出错线程name:1'data'
+
+the thread is over线程name:1
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+125.116.175.131:808
+无效ip
+111.73.83.125:808
+无效ip
+60.178.71.239:808
+无效ip
+182.41.110.51:808
+线程name:10@@@@200
+无效ip
+14.63.226.198:80
+sigleTest通过但线程网络请求出错线程name:28HTTPConnectionPool(host='113.120.104.76', port=80): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%A7%E5%AE%89&arrStation=%E9%83%B4%E5%B7%9E%E8%A5%BF&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:28
+len(http_ok)=1	len(http_notok)=0
+
+线程name:58@@@@200
+无效ip
+122.244.53.148:808
+sigleTest通过但线程网络请求出错线程name:57Expecting value: line 1 column 1 (char 0)
+
+the thread is over线程name:57
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:6'data'
+
+the thread is over线程name:6
+len(http_ok)=3	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:38'data'
+
+the thread is over线程name:38
+len(http_ok)=2	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:73'data'
+
+the thread is over线程name:73
+len(http_ok)=2	len(http_notok)=0
+
+线程name:45@@@@200
+线程name:59@@@@200
+线程name:90@@@@200
+sigleTest通过但线程网络请求出错线程name:94'data'
+
+the thread is over线程name:94
+len(http_ok)=4	len(http_notok)=0
+
+无效ip
+60.167.135.25:808
+线程name:3@@@@200
+线程name:59@@@@200
+sigleTest通过但线程网络请求出错线程name:88HTTPConnectionPool(host='222.129.236.24', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%87%A4%E5%8E%BF&arrStation=%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:88
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:19'data'
+
+the thread is over线程name:19
+len(http_ok)=9	len(http_notok)=0
+
+线程name:29@@@@200
+sigleTest通过但线程网络请求出错线程name:41'data'
+
+the thread is over线程name:41
+len(http_ok)=7	len(http_notok)=0
+
+线程name:93@@@@200
+线程name:90@@@@200
+sigleTest通过但线程网络请求出错线程name:58HTTPConnectionPool(host='183.166.94.33', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B9%B3%E5%AE%89%E9%A9%BF&arrStation=%E9%BE%99%E5%A1%98%E5%9D%9D&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:58
+len(http_ok)=4	len(http_notok)=0
+
+线程name:93@@@@200
+无效ip
+123.55.191.165:808
+sigleTest通过但线程网络请求出错线程name:70'data'
+
+the thread is over线程name:70
+len(http_ok)=5	len(http_notok)=0
+
+线程name:51@@@@200
+线程name:83@@@@200
+线程name:45@@@@200
+线程name:4@@@@200
+sigleTest通过但线程网络请求出错线程name:17'data'
+
+the thread is over线程name:17
+len(http_ok)=7	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:22HTTPConnectionPool(host='175.155.241.55', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%B4%E9%AB%98%E5%8D%97&arrStation=%E7%BB%8D%E5%85%B4&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10dcc4b70>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:22
+len(http_ok)=0	len(http_notok)=0
+
+线程name:87@@@@200
+sigleTest通过但线程网络请求出错线程name:4'data'
+
+the thread is over线程name:4
+len(http_ok)=11	len(http_notok)=0
+
+线程name:56@@@@200
+线程name:65@@@@200
+线程name:79@@@@200
+sigleTest通过但线程网络请求出错线程name:100HTTPConnectionPool(host='113.123.19.56', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%A3%E5%9F%8E&arrStation=%E4%B8%8A%E6%9D%AD&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10de98dd8>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:100
+len(http_ok)=0	len(http_notok)=0
+
+线程name:51@@@@200
+线程name:33@@@@200
+sigleTest通过但线程网络请求出错线程name:11'data'
+
+the thread is over线程name:11
+len(http_ok)=12	len(http_notok)=0
+
+线程name:97@@@@200
+线程name:64@@@@200
+无效ip
+123.55.3.4:808
+线程name:34@@@@200
+线程name:66@@@@200
+线程name:3@@@@200
+sigleTest通过但线程网络请求出错线程name:97'data'
+
+the thread is over线程name:97
+len(http_ok)=12	len(http_notok)=0
+
+线程name:16@@@@200
+sigleTest通过但线程网络请求出错线程name:64'data'
+
+the thread is over线程name:64
+len(http_ok)=35	len(http_notok)=0
+
+线程name:54@@@@200
+sigleTest通过但线程网络请求出错线程name:45'data'
+
+the thread is over线程name:45
+len(http_ok)=17	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:93'data'
+
+the thread is over线程name:93
+len(http_ok)=20	len(http_notok)=0
+
+线程name:63@@@@200
+线程name:96@@@@200
+线程name:3@@@@200
+线程name:90@@@@200
+线程name:67@@@@200
+线程name:3@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:16'data'
+
+the thread is over线程name:16
+len(http_ok)=7	len(http_notok)=0
+
+线程name:79@@@@200
+线程name:55@@@@200
+sigleTest通过但线程网络请求出错线程name:3'data'
+
+the thread is over线程name:3
+len(http_ok)=24	len(http_notok)=0
+
+线程name:63@@@@200
+线程name:18@@@@200
+线程name:79@@@@200
+线程name:46@@@@200
+线程name:90@@@@200
+线程name:62@@@@200
+sigleTest通过但线程网络请求出错线程name:76'data'
+
+the thread is over线程name:76
+len(http_ok)=4	len(http_notok)=0
+
+线程name:24@@@@200
+线程name:34@@@@200
+线程name:55@@@@200
+线程name:87@@@@200
+线程name:33@@@@200
+线程name:48@@@@200
+线程name:10@@@@200
+线程name:90@@@@200
+线程name:79@@@@200
+线程name:95@@@@200
+sigleTest通过但线程网络请求出错线程name:42'data'
+
+the thread is over线程name:42
+len(http_ok)=34	len(http_notok)=0
+
+线程name:46@@@@200
+线程name:79@@@@200
+线程name:52@@@@200
+线程name:23@@@@200
+线程name:23@@@@200
+线程name:54@@@@200
+线程name:46@@@@200
+线程name:48@@@@200
+线程name:59@@@@200
+线程name:52@@@@200
+线程name:30@@@@200
+线程name:67@@@@200
+sigleTest通过但线程网络请求出错线程name:66'data'
+
+the thread is over线程name:66
+len(http_ok)=23	len(http_notok)=0
+
+线程name:83@@@@200
+sigleTest通过但线程网络请求出错线程name:36'data'
+
+the thread is over线程name:36
+len(http_ok)=1	len(http_notok)=0
+
+线程name:96@@@@200
+线程name:48@@@@200
+sigleTest通过但线程网络请求出错线程name:10'data'
+
+the thread is over线程name:10
+len(http_ok)=40	len(http_notok)=0
+
+线程name:32@@@@404
+线程name:24@@@@200
+线程name:87@@@@200
+sigleTest通过但线程网络请求出错线程name:63'data'
+
+the thread is over线程name:63
+len(http_ok)=35	len(http_notok)=0
+
+线程name:24@@@@200
+线程name:48@@@@200
+线程name:61@@@@200
+线程name:23@@@@200
+线程name:65@@@@200
+sigleTest通过但线程网络请求出错线程name:83'data'
+
+the thread is over线程name:83
+len(http_ok)=47	len(http_notok)=0
+
+线程name:37@@@@200
+线程name:29@@@@200
+线程name:56@@@@200
+线程name:96@@@@200
+线程name:29@@@@200
+线程name:23@@@@200
+线程name:34@@@@200
+线程name:79@@@@200
+线程name:61@@@@200
+线程name:59@@@@200
+线程name:34@@@@200
+线程name:61@@@@200
+sigleTest通过但线程网络请求出错线程name:18'data'
+
+the thread is over线程name:18
+len(http_ok)=10	len(http_notok)=0
+
+线程name:23@@@@200
+线程name:24@@@@200
+线程name:34@@@@200
+线程name:61@@@@200
+sigleTest通过但线程网络请求出错线程name:90'data'
+
+the thread is over线程name:90
+len(http_ok)=44	len(http_notok)=0
+
+线程name:55@@@@200
+sigleTest通过但线程网络请求出错线程name:24'data'
+
+the thread is over线程name:24
+len(http_ok)=64	len(http_notok)=0
+
+线程name:34@@@@200
+线程name:23@@@@200
+线程name:32@@@@200
+线程name:29@@@@200
+线程name:62@@@@200
+线程name:25@@@@200
+线程name:46@@@@200
+线程name:65@@@@200
+线程name:30@@@@200
+sigleTest通过但线程网络请求出错线程name:96'data'
+
+the thread is over线程name:96
+len(http_ok)=32	len(http_notok)=0
+
+线程name:48@@@@200
+线程name:67@@@@200
+sigleTest通过但线程网络请求出错线程name:95'data'
+
+the thread is over线程name:95
+len(http_ok)=40	len(http_notok)=0
+
+线程name:52@@@@200
+线程name:67@@@@200
+线程name:53@@@@200
+线程name:51@@@@200
+线程name:48@@@@200
+线程name:48@@@@200
+线程name:34@@@@200
+sigleTest通过但线程网络请求出错线程name:67'data'
+
+the thread is over线程name:67
+len(http_ok)=60	len(http_notok)=0
+
+线程name:34@@@@200
+线程name:48@@@@200
+线程name:30@@@@200
+sigleTest通过但线程网络请求出错线程name:51'data'
+
+the thread is over线程name:51
+len(http_ok)=47	len(http_notok)=0
+
+线程name:74@@@@200
+线程name:32@@@@200
+线程name:61@@@@200
+线程name:59@@@@200
+sigleTest通过但线程网络请求出错线程name:8'data'
+
+the thread is over线程name:8
+len(http_ok)=5	len(http_notok)=0
+
+线程name:29@@@@200
+线程name:54@@@@200
+线程name:33@@@@200
+线程name:37@@@@200
+线程name:46@@@@200
+线程name:33@@@@200
+线程name:32@@@@200
+线程name:74@@@@200
+线程name:37@@@@200
+线程name:62@@@@200
+线程name:87@@@@200
+线程name:79@@@@200
+线程name:54@@@@200
+线程name:30@@@@200
+sigleTest通过但线程网络请求出错线程name:29'data'
+
+the thread is over线程name:29
+len(http_ok)=95	len(http_notok)=0
+
+线程name:32@@@@200
+sigleTest通过但线程网络请求出错线程name:79'data'
+
+the thread is over线程name:79
+len(http_ok)=64	len(http_notok)=0
+
+线程name:30@@@@200
+线程name:61@@@@200
+线程name:37@@@@200
+线程name:32@@@@200
+线程name:65@@@@200
+sigleTest通过但线程网络请求出错线程name:87'data'
+
+the thread is over线程name:87
+len(http_ok)=58	len(http_notok)=0
+
+线程name:37@@@@200
+线程name:52@@@@200
+线程name:48@@@@200
+线程name:56@@@@200
+线程name:48@@@@200
+线程name:46@@@@200
+线程name:54@@@@200
+线程name:32@@@@200
+线程name:61@@@@200
+线程name:59@@@@200
+线程name:32@@@@200
+线程name:30@@@@200
+线程name:33@@@@200
+线程name:62@@@@200
+线程name:46@@@@200
+线程name:65@@@@200
+线程name:23@@@@200
+sigleTest通过但线程网络请求出错线程name:30'data'
+
+the thread is over线程name:30
+len(http_ok)=126	len(http_notok)=0
+
+线程name:54@@@@200
+线程name:23@@@@200
+线程name:32@@@@200
+线程name:59@@@@200
+线程name:59@@@@200
+线程name:34@@@@200
+线程name:48@@@@200
+sigleTest通过但线程网络请求出错线程name:59'data'
+
+the thread is over线程name:59
+len(http_ok)=103	len(http_notok)=0
+
+线程name:46@@@@200
+线程name:62@@@@200
+线程name:32@@@@200
+线程name:74@@@@200
+线程name:74@@@@200
+线程name:62@@@@200
+线程name:48@@@@200
+线程name:54@@@@200
+线程name:34@@@@200
+线程name:52@@@@200
+无效ip
+117.172.79.4:8080
+线程name:62@@@@200
+线程name:34@@@@200
+线程name:54@@@@200
+线程name:34@@@@200
+sigleTest通过但线程网络请求出错线程name:50HTTPConnectionPool(host='114.99.21.207', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%BB%89%E6%B1%9F&arrStation=%E9%B2%81%E5%B1%B1&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10ddda908>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:50
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:46'data'
+
+the thread is over线程name:46
+len(http_ok)=115	len(http_notok)=0
+
+线程name:56@@@@200
+sigleTest通过但线程网络请求出错线程name:54'data'
+
+the thread is over线程name:54
+len(http_ok)=60	len(http_notok)=0
+
+线程name:61@@@@200
+线程name:52@@@@200
+线程name:56@@@@200
+sigleTest通过但线程网络请求出错线程name:61'data'
+
+the thread is over线程name:61
+len(http_ok)=119	len(http_notok)=0
+
+线程name:52@@@@200
+线程name:74@@@@200
+线程name:55@@@@200
+sigleTest通过但线程网络请求出错线程name:74'data'
+
+the thread is over线程name:74
+len(http_ok)=125	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:56'data'
+
+the thread is over线程name:56
+len(http_ok)=126	len(http_notok)=0
+
+线程name:23@@@@200
+线程name:55@@@@200
+线程name:52@@@@200
+线程name:25@@@@200
+线程name:23@@@@200
+sigleTest通过但线程网络请求出错线程name:33'data'
+
+the thread is over线程name:33
+len(http_ok)=117	len(http_notok)=0
+
+线程name:32@@@@200
+线程name:34@@@@200
+线程name:98@@@@200
+sigleTest通过但线程网络请求出错线程name:98'data'
+
+the thread is over线程name:98
+len(http_ok)=35	len(http_notok)=0
+
+线程name:48@@@@200
+线程name:52@@@@200
+sigleTest通过但线程网络请求出错线程name:65'data'
+
+the thread is over线程name:65
+len(http_ok)=180	len(http_notok)=0
+
+线程name:62@@@@200
+线程name:37@@@@200
+线程name:32@@@@200
+线程name:37@@@@200
+线程name:32@@@@200
+线程name:23@@@@200
+线程name:52@@@@200
+线程name:34@@@@200
+线程name:23@@@@200
+线程name:55@@@@200
+线程name:48@@@@200
+线程name:32@@@@200
+线程name:48@@@@200
+线程name:55@@@@200
+sigleTest通过但线程网络请求出错线程name:2'data'
+
+the thread is over线程name:2
+len(http_ok)=1	len(http_notok)=0
+
+线程name:23@@@@200
+线程name:34@@@@200
+线程name:52@@@@200
+线程name:55@@@@200
+线程name:23@@@@200
+线程name:52@@@@200
+线程name:55@@@@200
+线程name:37@@@@200
+线程name:55@@@@200
+线程name:23@@@@200
+线程name:37@@@@200
+线程name:25@@@@200
+线程name:48@@@@200
+线程name:23@@@@200
+线程name:23@@@@200
+线程name:52@@@@200
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:48@@@@200
+线程name:34@@@@200
+线程name:32@@@@404
+线程name:55@@@@200
+线程name:23@@@@200
+线程name:32@@@@200
+线程name:37@@@@200
+线程name:32@@@@200
+线程name:52@@@@200
+sigleTest通过但线程网络请求出错线程name:48'data'
+
+the thread is over线程name:48
+len(http_ok)=242	len(http_notok)=0
+
+线程name:37@@@@200
+线程name:52@@@@200
+线程name:62@@@@200
+线程name:52@@@@200
+线程name:52@@@@200
+线程name:23@@@@200
+线程name:23@@@@200
+线程name:25@@@@200
+线程name:52@@@@200
+线程name:23@@@@200
+线程name:37@@@@200
+线程name:23@@@@200
+sigleTest通过但线程网络请求出错线程name:71HTTPConnectionPool(host='222.189.244.118', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%BA%86%E4%B8%B0&arrStation=%E4%B8%89%E4%B9%89%E4%BA%95&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:71
+len(http_ok)=3	len(http_notok)=0
+
+线程name:32@@@@200
+线程name:32@@@@200
+sigleTest通过但线程网络请求出错线程name:62'data'
+
+the thread is over线程name:62
+len(http_ok)=210	len(http_notok)=0
+
+线程name:32@@@@200
+线程name:32@@@@200
+sigleTest通过但线程网络请求出错线程name:25'data'
+
+the thread is over线程name:25
+len(http_ok)=64	len(http_notok)=0
+
+线程name:23@@@@200
+线程name:23@@@@200
+线程name:32@@@@200
+线程name:23@@@@200
+线程name:53@@@@200
+线程name:55@@@@200
+线程name:37@@@@200
+线程name:34@@@@200
+线程name:55@@@@200
+线程name:37@@@@200
+线程name:34@@@@200
+线程name:20@@@@200
+线程name:23@@@@200
+线程name:12@@@@200
+线程name:55@@@@200
+线程name:53@@@@200
+线程name:23@@@@200
+无效ip
+60.178.6.80:8081
+无效ip
+219.149.46.151:3128
+无效ip
+60.173.35.210:808
+无效ip
+221.229.44.150:808
+无效ip
+61.183.8.61:3128
+无效ip
+182.32.169.227:808
+无效ip
+115.213.176.159:808
+无效ip
+122.241.73.115:808
+无效ip
+120.84.102.155:808
+无效ip
+60.178.128.20:8081
+无效ip
+60.178.71.102:808
+sigleTest通过但线程网络请求出错线程name:23'data'
+
+the thread is over线程name:23
+len(http_ok)=315	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:55'data'
+
+the thread is over线程name:55
+len(http_ok)=258	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:32'data'
+
+the thread is over线程name:32
+len(http_ok)=341	len(http_notok)=2
+
+sigleTest通过但线程网络请求出错线程name:52'data'
+
+the thread is over线程name:52
+len(http_ok)=280	len(http_notok)=0
+
+线程name:34@@@@200
+线程name:34@@@@200
+线程name:34@@@@200
+线程name:34@@@@200
+线程name:34@@@@200
+线程name:34@@@@200
+线程name:37@@@@200
+线程name:34@@@@200
+线程name:34@@@@200
+线程name:34@@@@200
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:34@@@@200
+线程name:34@@@@200
+sigleTest通过但线程网络请求出错线程name:40HTTPConnectionPool(host='171.8.106.46', port=8888): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%BA%94%E5%8F%89%E6%B2%9F&arrStation=%E9%A1%B9%E5%9F%8E&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10c9e7cf8>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:40
+len(http_ok)=7	len(http_notok)=0
+
+线程name:34@@@@200
+线程name:34@@@@200
+线程name:37@@@@200
+线程name:34@@@@200
+线程name:37@@@@200
+sigleTest通过但线程网络请求出错线程name:34'data'
+
+the thread is over线程name:34
+len(http_ok)=552	len(http_notok)=0
+
+线程name:37@@@@200
+sigleTest通过但线程网络请求出错线程name:60HTTPConnectionPool(host='114.239.248.242', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%9D%BE%E5%8E%9F%E5%8C%97&arrStation=%E9%BB%84%E6%A2%85&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10dc8ef60>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:60
+len(http_ok)=8	len(http_notok)=0
+
+线程name:81@@@@200
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:81@@@@200
+sigleTest通过但线程网络请求出错线程name:37'data'
+
+the thread is over线程name:37
+len(http_ok)=470	len(http_notok)=0
+
+无效ip
+114.99.2.230:808
+无效ip
+123.55.223.138:808
+无效ip
+113.120.104.76:80
+无效ip
+221.229.44.253:808
+无效ip
+113.123.127.30:808
+sigleTest通过但线程网络请求出错线程name:1'data'
+
+the thread is over线程name:1
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:3'data'
+
+the thread is over线程name:3
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+111.73.83.125:808
+无效ip
+220.179.211.51:808
+无效ip
+175.155.241.55:808
+无效ip
+114.239.248.242:808
+线程name:23@@@@200
+线程name:11@@@@200
+无效ip
+182.41.110.51:808
+无效ip
+14.63.226.198:80
+线程name:48@@@@200
+线程name:65@@@@200
+sigleTest通过但线程网络请求出错线程name:69("Connection broken: ConnectionResetError(54, 'Connection reset by peer')", ConnectionResetError(54, 'Connection reset by peer'))
+
+the thread is over线程name:69
+len(http_ok)=0	len(http_notok)=0
+
+线程name:74@@@@200
+线程name:30@@@@200
+线程name:24@@@@200
+线程name:37@@@@200
+线程name:4@@@@200
+线程name:74@@@@200
+线程name:51@@@@200
+线程name:83@@@@200
+sigleTest通过但线程网络请求出错线程name:93'data'
+
+the thread is over线程name:93
+len(http_ok)=3	len(http_notok)=0
+
+线程name:29@@@@200
+线程name:66@@@@200
+线程name:79@@@@200
+sigleTest通过但线程网络请求出错线程name:58HTTPConnectionPool(host='183.166.94.33', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A7%9A%E6%B8%A1&arrStation=%E9%BB%84%E9%99%B5%E5%8D%97&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:58
+len(http_ok)=3	len(http_notok)=0
+
+线程name:97@@@@200
+无效ip
+113.123.19.56:808
+无效ip
+60.167.135.25:808
+线程name:46@@@@200
+线程name:30@@@@200
+线程name:42@@@@200
+线程name:56@@@@200
+线程name:45@@@@200
+线程name:62@@@@200
+sigleTest通过但线程网络请求出错线程name:94'data'
+
+the thread is over线程name:94
+len(http_ok)=7	len(http_notok)=0
+
+线程name:11@@@@200
+线程name:42@@@@200
+sigleTest通过但线程网络请求出错线程name:6HTTPConnectionPool(host='117.143.109.155', port=80): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%89%E7%A9%97&arrStation=%E5%80%AD%E8%82%AF&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+
+the thread is over线程name:6
+len(http_ok)=10	len(http_notok)=0
+
+线程name:38@@@@200
+线程name:83@@@@200
+线程name:97@@@@200
+线程name:74@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:88HTTPConnectionPool(host='222.129.236.24', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%87%8C%E6%BA%90%E4%B8%9C&arrStation=%E4%B8%8B%E7%A4%BE&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+
+the thread is over线程name:88
+len(http_ok)=0	len(http_notok)=0
+
+线程name:29@@@@200
+sigleTest通过但线程网络请求出错线程name:59'data'
+
+the thread is over线程name:59
+len(http_ok)=11	len(http_notok)=0
+
+线程name:87@@@@200
+sigleTest通过但线程网络请求出错线程name:11'data'
+
+the thread is over线程name:11
+len(http_ok)=12	len(http_notok)=0
+
+线程name:37@@@@200
+线程name:38@@@@200
+线程name:19@@@@200
+线程name:65@@@@200
+sigleTest通过但线程网络请求出错线程name:4'data'
+
+the thread is over线程name:4
+len(http_ok)=16	len(http_notok)=0
+
+线程name:97@@@@200
+sigleTest通过但线程网络请求出错线程name:89HTTPConnectionPool(host='122.244.53.148', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%89%E9%97%A8%E5%8E%BF&arrStation=%E4%B8%9C%E5%AE%89%E4%B8%9C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10b4ab780>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:89
+len(http_ok)=0	len(http_notok)=0
+
+线程name:51@@@@200
+线程name:87@@@@200
+线程name:67@@@@200
+线程name:17@@@@200
+线程name:19@@@@200
+线程name:23@@@@200
+线程name:65@@@@200
+线程name:55@@@@200
+线程name:33@@@@200
+sigleTest通过但线程网络请求出错线程name:56'data'
+
+the thread is over线程name:56
+len(http_ok)=17	len(http_notok)=0
+
+线程name:42@@@@200
+线程name:65@@@@200
+线程name:29@@@@200
+线程name:83@@@@200
+sigleTest通过但线程网络请求出错线程name:38'data'
+
+the thread is over线程name:38
+len(http_ok)=18	len(http_notok)=0
+
+线程name:62@@@@200
+线程name:24@@@@200
+线程name:54@@@@200
+线程name:83@@@@200
+线程name:29@@@@200
+sigleTest通过但线程网络请求出错线程name:42'data'
+
+the thread is over线程name:42
+len(http_ok)=25	len(http_notok)=0
+
+线程name:67@@@@200
+线程name:24@@@@200
+线程name:79@@@@200
+线程name:34@@@@200
+sigleTest通过但线程网络请求出错线程name:87'data'
+
+the thread is over线程name:87
+len(http_ok)=12	len(http_notok)=0
+
+线程name:10@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:46'data'
+
+the thread is over线程name:46
+len(http_ok)=23	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:19'data'
+
+the thread is over线程name:19
+len(http_ok)=29	len(http_notok)=0
+
+线程name:73@@@@200
+线程name:90@@@@200
+线程name:30@@@@200
+无效ip
+61.176.215.7:8080
+无效ip
+123.125.212.171:8080
+线程name:90@@@@200
+线程name:79@@@@200
+线程name:29@@@@200
+线程name:74@@@@200
+线程name:25@@@@200
+无效ip
+220.194.213.52:8080
+线程name:61@@@@404
+线程name:66@@@@200
+线程name:73@@@@200
+线程name:23@@@@200
+线程name:55@@@@200
+线程name:34@@@@200
+线程name:90@@@@200
+线程name:45@@@@200
+线程name:67@@@@200
+线程name:24@@@@200
+线程name:65@@@@200
+线程name:67@@@@200
+线程name:74@@@@200
+线程name:52@@@@200
+线程name:67@@@@200
+线程name:61@@@@200
+线程name:30@@@@200
+线程name:65@@@@200
+线程name:29@@@@200
+线程name:34@@@@200
+线程name:51@@@@200
+线程name:51@@@@200
+线程name:62@@@@200
+线程name:61@@@@200
+线程name:29@@@@200
+线程name:23@@@@200
+线程name:30@@@@200
+线程name:41@@@@200
+线程name:23@@@@200
+线程name:65@@@@200
+线程name:24@@@@200
+线程name:61@@@@200
+线程name:25@@@@200
+线程name:73@@@@200
+线程name:76@@@@404
+线程name:48@@@@200
+sigleTest通过但线程网络请求出错线程name:17'data'
+
+the thread is over线程name:17
+len(http_ok)=37	len(http_notok)=0
+
+线程name:73@@@@200
+线程name:30@@@@200
+线程name:24@@@@200
+线程name:83@@@@200
+线程name:61@@@@200
+线程name:76@@@@200
+线程name:41@@@@200
+线程name:30@@@@200
+线程name:29@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:18'data'
+
+the thread is over线程name:18
+len(http_ok)=5	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:25'data'
+
+the thread is over线程name:25
+len(http_ok)=45	len(http_notok)=0
+
+线程name:97@@@@200
+线程name:33@@@@200
+sigleTest通过但线程网络请求出错线程name:16'data'
+
+the thread is over线程name:16
+len(http_ok)=25	len(http_notok)=0
+
+线程name:33@@@@200
+线程name:83@@@@200
+sigleTest通过但线程网络请求出错线程name:73'data'
+
+the thread is over线程name:73
+len(http_ok)=63	len(http_notok)=0
+
+线程name:34@@@@200
+线程name:51@@@@200
+线程name:61@@@@200
+线程name:67@@@@200
+sigleTest通过但线程网络请求出错线程name:74'data'
+
+the thread is over线程name:74
+len(http_ok)=52	len(http_notok)=0
+
+线程name:83@@@@200
+线程name:97@@@@200
+线程name:51@@@@200
+线程name:63@@@@200
+线程name:61@@@@200
+线程name:23@@@@200
+sigleTest通过但线程网络请求出错线程name:55'data'
+
+the thread is over线程name:55
+len(http_ok)=51	len(http_notok)=0
+
+线程name:61@@@@200
+线程name:90@@@@200
+线程name:61@@@@200
+线程name:34@@@@200
+sigleTest通过但线程网络请求出错线程name:29'data'
+
+the thread is over线程name:29
+len(http_ok)=71	len(http_notok)=0
+
+线程name:23@@@@200
+线程name:61@@@@200
+线程name:66@@@@200
+sigleTest通过但线程网络请求出错线程name:52'data'
+
+the thread is over线程name:52
+len(http_ok)=56	len(http_notok)=0
+
+线程name:54@@@@200
+线程name:63@@@@200
+线程name:45@@@@200
+线程name:54@@@@200
+线程name:67@@@@200
+线程name:24@@@@200
+线程name:30@@@@200
+线程name:41@@@@200
+无效ip
+58.19.80.42:808
+sigleTest通过但线程网络请求出错线程name:83'data'
+
+the thread is over线程name:83
+len(http_ok)=87	len(http_notok)=0
+
+线程name:33@@@@200
+线程name:65@@@@200
+线程name:67@@@@200
+线程name:90@@@@200
+线程name:61@@@@200
+线程name:10@@@@200
+线程name:45@@@@200
+线程name:41@@@@200
+线程name:10@@@@200
+sigleTest通过但线程网络请求出错线程name:67'data'
+
+the thread is over线程name:67
+len(http_ok)=71	len(http_notok)=0
+
+线程name:10@@@@200
+线程name:65@@@@200
+线程name:45@@@@200
+线程name:30@@@@200
+线程name:48@@@@200
+线程name:45@@@@200
+sigleTest通过但线程网络请求出错线程name:97'data'
+
+the thread is over线程name:97
+len(http_ok)=84	len(http_notok)=0
+
+线程name:24@@@@200
+线程name:66@@@@200
+sigleTest通过但线程网络请求出错线程name:23'data'
+
+the thread is over线程name:23
+len(http_ok)=87	len(http_notok)=0
+
+线程name:45@@@@200
+线程name:61@@@@200
+sigleTest通过但线程网络请求出错线程name:47HTTPConnectionPool(host='123.55.3.4', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%8F%A5%E5%AE%B9%E8%A5%BF&arrStation=%E9%BB%84%E5%86%88%E4%B8%9C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10b4ab550>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:47
+len(http_ok)=0	len(http_notok)=0
+
+线程name:65@@@@200
+线程name:63@@@@200
+线程name:10@@@@200
+线程name:76@@@@200
+线程name:48@@@@200
+线程name:62@@@@200
+线程name:79@@@@200
+线程name:24@@@@200
+线程name:48@@@@200
+线程name:65@@@@200
+线程name:51@@@@200
+线程name:79@@@@200
+线程name:53@@@@200
+线程name:41@@@@200
+线程name:76@@@@200
+线程name:24@@@@200
+线程name:45@@@@200
+线程name:54@@@@200
+线程name:10@@@@200
+sigleTest通过但线程网络请求出错线程name:79'data'
+
+the thread is over线程name:79
+len(http_ok)=86	len(http_notok)=0
+
+线程name:41@@@@200
+sigleTest通过但线程网络请求出错线程name:30'data'
+
+the thread is over线程name:30
+len(http_ok)=132	len(http_notok)=0
+
+线程name:54@@@@200
+线程name:96@@@@200
+线程name:24@@@@200
+线程name:24@@@@200
+线程name:48@@@@200
+线程name:62@@@@200
+线程name:45@@@@200
+线程name:24@@@@200
+线程name:63@@@@200
+线程name:51@@@@200
+线程name:45@@@@200
+线程name:41@@@@200
+线程name:10@@@@200
+线程name:51@@@@200
+线程name:41@@@@200
+线程name:66@@@@200
+线程name:8@@@@200
+线程name:10@@@@200
+sigleTest通过但线程网络请求出错线程name:76'data'
+
+the thread is over线程name:76
+len(http_ok)=33	len(http_notok)=1
+
+线程name:10@@@@200
+线程name:10@@@@200
+线程name:48@@@@200
+线程name:45@@@@200
+线程name:24@@@@200
+线程name:63@@@@200
+sigleTest通过但线程网络请求出错线程name:35HTTPConnectionPool(host='117.172.79.4', port=8080): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%91%A8%E6%B0%B4%E5%AD%90&arrStation=%E9%9B%A8%E6%A0%BC&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:35
+len(http_ok)=0	len(http_notok)=0
+
+线程name:54@@@@200
+线程name:65@@@@200
+线程name:24@@@@200
+线程name:54@@@@200
+线程name:33@@@@200
+线程name:10@@@@200
+线程name:34@@@@200
+线程name:90@@@@200
+线程name:8@@@@200
+线程name:37@@@@200
+线程name:61@@@@200
+线程name:65@@@@200
+线程name:10@@@@200
+线程name:62@@@@200
+线程name:33@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:96'data'
+
+the thread is over线程name:96
+len(http_ok)=41	len(http_notok)=0
+
+线程name:61@@@@200
+线程name:66@@@@200
+sigleTest通过但线程网络请求出错线程name:40'data'
+
+the thread is over线程name:40
+len(http_ok)=13	len(http_notok)=0
+
+线程name:8@@@@200
+线程name:54@@@@200
+线程name:24@@@@200
+线程name:45@@@@200
+线程name:10@@@@200
+线程name:24@@@@200
+线程name:10@@@@200
+线程name:48@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:70'data'
+
+the thread is over线程name:70
+len(http_ok)=6	len(http_notok)=0
+
+线程name:34@@@@200
+线程name:37@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:90'data'
+
+the thread is over线程name:90
+len(http_ok)=146	len(http_notok)=0
+
+线程name:34@@@@200
+sigleTest通过但线程网络请求出错线程name:48'data'
+
+the thread is over线程name:48
+len(http_ok)=177	len(http_notok)=0
+
+线程name:24@@@@200
+线程name:10@@@@200
+线程name:33@@@@200
+线程name:54@@@@200
+sigleTest通过但线程网络请求出错线程name:10'data'
+
+the thread is over线程name:10
+len(http_ok)=228	len(http_notok)=0
+
+线程name:53@@@@200
+sigleTest通过但线程网络请求出错线程name:33'data'
+
+the thread is over线程name:33
+len(http_ok)=129	len(http_notok)=0
+
+线程name:24@@@@200
+线程name:41@@@@200
+线程name:61@@@@200
+sigleTest通过但线程网络请求出错线程name:54'data'
+
+the thread is over线程name:54
+len(http_ok)=131	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:61'data'
+
+the thread is over线程name:61
+len(http_ok)=175	len(http_notok)=1
+
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:41'data'
+
+the thread is over线程name:41
+len(http_ok)=187	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:65'data'
+
+the thread is over线程name:65
+len(http_ok)=207	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:2'data'
+
+the thread is over线程name:2
+len(http_ok)=1	len(http_notok)=0
+
+线程name:51@@@@200
+线程name:63@@@@200
+线程name:34@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:34'data'
+
+the thread is over线程name:34
+len(http_ok)=183	len(http_notok)=0
+
+线程name:51@@@@200
+无效ip
+123.55.191.165:808
+线程name:37@@@@200
+线程name:24@@@@200
+sigleTest通过但线程网络请求出错线程name:24'data'
+
+the thread is over线程name:24
+len(http_ok)=248	len(http_notok)=0
+
+线程name:66@@@@200
+sigleTest通过但线程网络请求出错线程name:63'data'
+
+the thread is over线程name:63
+len(http_ok)=177	len(http_notok)=0
+
+线程name:37@@@@200
+线程name:45@@@@200
+线程name:45@@@@200
+线程name:66@@@@200
+线程name:66@@@@200
+线程name:51@@@@200
+线程name:51@@@@200
+线程name:98@@@@200
+线程name:45@@@@200
+线程name:98@@@@200
+线程name:66@@@@200
+sigleTest通过但线程网络请求出错线程name:45'data'
+
+the thread is over线程name:45
+len(http_ok)=283	len(http_notok)=0
+
+线程name:37@@@@200
+线程name:37@@@@200
+无效ip
+219.149.46.151:3128
+无效ip
+60.173.35.210:808
+无效ip
+60.178.71.239:808
+无效ip
+60.178.6.80:8081
+无效ip
+182.41.110.173:808
+无效ip
+112.250.213.212:8889
+无效ip
+221.229.44.150:808
+无效ip
+61.183.8.61:3128
+无效ip
+114.99.21.207:808
+无效ip
+125.116.175.131:808
+无效ip
+114.230.31.57:808
+无效ip
+222.189.244.118:808
+无效ip
+115.213.176.159:808
+无效ip
+122.241.73.115:808
+无效ip
+221.229.45.33:808
+无效ip
+120.84.102.155:808
+无效ip
+60.178.128.20:8081
+无效ip
+60.178.71.102:808
+线程name:98@@@@200
+sigleTest通过但线程网络请求出错线程name:66'data'
+
+the thread is over线程name:66
+len(http_ok)=205	len(http_notok)=0
+
+线程name:12@@@@200
+线程name:49@@@@200
+线程name:49@@@@200
+线程name:51@@@@200
+线程name:51@@@@200
+线程name:26@@@@200
+线程name:51@@@@200
+线程name:53@@@@200
+sigleTest通过但线程网络请求出错线程name:51'data'
+
+the thread is over线程name:51
+len(http_ok)=320	len(http_notok)=0
+
+线程name:49@@@@200
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:26@@@@200
+sigleTest通过但线程网络请求出错线程name:12HTTPConnectionPool(host='113.58.234.251', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%98%8E%E6%B0%B4%E6%B2%B3&arrStation=%E5%8D%97%E6%B1%9F%E5%8F%A3&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10b27cc88>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:12
+len(http_ok)=2	len(http_notok)=0
+
+线程name:37@@@@200
+线程name:37@@@@200
+线程name:98@@@@200
+线程name:98@@@@200
+sigleTest通过但线程网络请求出错线程name:37'data'
+
+the thread is over线程name:37
+len(http_ok)=310	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:53'data'
+
+the thread is over线程name:53
+len(http_ok)=21	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:26'data'
+
+the thread is over线程name:26
+len(http_ok)=9	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:49HTTPConnectionPool(host='182.32.169.227', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B1%B1%E9%98%B4&arrStation=%E9%AB%98%E6%A1%A5%E9%95%87&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10b4bf5c0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:49
+len(http_ok)=52	len(http_notok)=0
+
+线程name:8@@@@200
+sigleTest通过但线程网络请求出错线程name:8'data'
+
+the thread is over线程name:8
+len(http_ok)=75	len(http_notok)=0
+
+线程name:43@@@@200
+线程name:98@@@@200
+sigleTest通过但线程网络请求出错线程name:98'data'
+
+the thread is over线程name:98
+len(http_ok)=50	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:43HTTPConnectionPool(host='114.239.150.32', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B9%8C%E5%85%B0%E5%93%88%E8%BE%BE&arrStation=%E9%A9%AC%E9%BE%99&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:43
+len(http_ok)=21	len(http_notok)=0
+
+无效ip
+1.192.228.135:47097
+无效ip
+114.238.130.30:20601
+无效ip
+120.40.135.41:43416
+无效ip
+120.39.112.238:31846
+无效ip
+123.53.132.108:48587
+无效ip
+117.28.61.48:27287
+无效ip
+117.24.32.251:46591
+无效ip
+117.28.163.109:28713
+无效ip
+117.24.20.164:29304
+无效ip
+106.46.205.57:25991
+无效ip
+218.73.135.97:33541
+无效ip
+60.178.71.4:48237
+无效ip
+114.230.217.253:27546
+无效ip
+140.250.152.52:35027
+无效ip
+36.25.26.130:22494
+无效ip
+114.226.163.49:47091
+无效ip
+120.32.139.117:47650
+无效ip
+117.86.23.47:33851
+无效ip
+49.87.75.218:29836
+无效ip
+110.85.89.124:40995
+无效ip
+180.115.8.129:34235
+无效ip
+140.250.134.79:44838
+无效ip
+180.122.150.126:26763
+无效ip
+144.255.49.104:28734
+无效ip
+110.85.89.10:34940
+无效ip
+180.115.13.132:23223
+无效ip
+124.72.98.42:43264
+无效ip
+110.87.4.161:33476
+无效ip
+27.154.182.145:20794
+无效ip
+1.192.231.40:31384
+无效ip
+27.153.128.57:42409
+无效ip
+49.87.176.136:38768
+无效ip
+120.39.114.94:33874
+无效ip
+115.221.118.148:39839
+sigleTest通过但线程网络请求出错线程name:11'data'
+
+the thread is over线程name:11
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:16'data'
+
+the thread is over线程name:16
+len(http_ok)=5	len(http_notok)=0
+
+线程name:20@@@@200
+线程name:37@@@@200
+线程name:20@@@@200
+sigleTest通过但线程网络请求出错线程name:20'data'
+
+the thread is over线程name:20
+len(http_ok)=16	len(http_notok)=0
+
+线程name:21@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+sigleTest通过但线程网络请求出错线程name:21'data'
+
+the thread is over线程name:21
+len(http_ok)=21	len(http_notok)=0
+
+线程name:35@@@@200
+sigleTest通过但线程网络请求出错线程name:37'data'
+
+the thread is over线程name:37
+len(http_ok)=53	len(http_notok)=0
+
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+线程name:35@@@@200
+sigleTest通过但线程网络请求出错线程name:35'data'
+
+the thread is over线程name:35
+len(http_ok)=231	len(http_notok)=0
+
+无效ip
+60.178.85.254:808
+无效ip
+114.231.116.67:808
+无效ip
+113.121.247.11:808
+无效ip
+218.4.101.130:83
+无效ip
+113.121.21.65:808
+无效ip
+119.5.221.179:808
+无效ip
+1.192.230.50:808
+无效ip
+153.36.150.88:808
+无效ip
+111.73.83.63:808
+无效ip
+114.239.249.196:808
+无效ip
+106.46.6.7:808
+无效ip
+115.200.204.47:808
+无效ip
+60.21.132.218:63000
+无效ip
+182.32.159.248:808
+无效ip
+60.169.78.218:808
+无效ip
+122.241.75.135:808
+无效ip
+114.99.72.155:808
+无效ip
+113.121.189.206:808
+无效ip
+115.220.147.30:808
+无效ip
+111.73.82.127:808
+无效ip
+111.62.251.130:8080
+无效ip
+115.203.64.45:808
+无效ip
+115.220.150.179:808
+无效ip
+125.89.121.175:808
+无效ip
+113.121.170.62:808
+无效ip
+27.46.55.55:8118
+无效ip
+113.121.162.126:808
+无效ip
+114.232.80.213:808
+无效ip
+121.13.54.43:8118
+线程name:15@@@@200
+无效ip
+119.7.73.97:808
+无效ip
+113.121.185.227:808
+无效ip
+114.231.105.61:808
+无效ip
+180.118.240.210:808
+无效ip
+114.232.152.131:808
+无效ip
+182.45.176.129:808
+无效ip
+125.89.126.193:808
+sigleTest通过但线程网络请求出错线程name:15'data'
+
+the thread is over线程name:15
+len(http_ok)=8	len(http_notok)=0
+
+无效ip
+112.194.216.244:808
+无效ip
+115.220.4.239:808
+sigleTest通过但线程网络请求出错线程name:76HTTPConnectionPool(host='113.121.37.87', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B9%B3%E6%88%BF&arrStation=%E4%B8%89%E9%81%93%E6%B9%96&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e960fd0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:76
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:8HTTPConnectionPool(host='119.4.15.16', port=80): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%8C%97%E5%AE%85&arrStation=%E4%BA%9A&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:8
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+115.220.147.110:808
+sigleTest通过但线程网络请求出错线程name:46HTTPConnectionPool(host='113.121.43.54', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%9C%E6%98%8C%E4%B8%9C&arrStation=%E9%A9%AC%E8%8E%B2%E6%B2%B3&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e847cc0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:46
+len(http_ok)=0	len(http_notok)=0
+
+无效ip
+113.121.38.221:808
+sigleTest通过但线程网络请求出错线程name:41HTTPConnectionPool(host='113.121.36.82', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%81%E5%BE%B7&arrStation=%E9%AB%98%E5%B9%B3&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e91c588>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:41
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:13HTTPConnectionPool(host='115.213.176.153', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%9A%E9%99%B6&arrStation=%E5%8D%A2%E9%BE%99&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e810550>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:13
+len(http_ok)=0	len(http_notok)=0
+
+无效ip
+113.123.127.156:39086
+sigleTest通过但线程网络请求出错线程name:80'data'
+
+the thread is over线程name:80
+len(http_ok)=7	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:91HTTPConnectionPool(host='113.121.189.83', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B9%B3%E5%B1%B1&arrStation=%E4%B8%9C%E6%B5%B7&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x11730acc0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:91
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:24HTTPConnectionPool(host='121.61.17.36', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%99%AF%E5%BE%B7%E9%95%87&arrStation=%E8%B5%A3%E5%B7%9E&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+
+the thread is over线程name:24
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:39HTTPConnectionPool(host='120.197.67.70', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%A7%E6%AD%A6%E5%8F%A3&arrStation=%E9%98%B3%E9%AB%98&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10ea0def0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:39
+len(http_ok)=5	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:81HTTPConnectionPool(host='115.215.71.244', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%BA%86%E4%B8%B0&arrStation=%E4%B8%8B%E5%9F%8E%E5%AD%90&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e886208>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:81
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:25HTTPConnectionPool(host='115.220.6.64', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%8A%E6%B5%B7%E8%A5%BF&arrStation=%E9%87%91%E5%B1%B1%E5%B1%AF&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e886240>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:25
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:36HTTPConnectionPool(host='115.213.203.17', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%8B%E5%8F%B0%E5%AD%90&arrStation=%E9%AB%98%E5%8F%B0%E5%8D%97&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e8bba20>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:36
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:23HTTPConnectionPool(host='114.229.16.87', port=8118): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%9B%BA%E5%A7%8B&arrStation=%E8%AE%B8%E6%98%8C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+
+the thread is over线程name:23
+len(http_ok)=6	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:28HTTPConnectionPool(host='125.106.92.183', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%96%87%E6%B0%B4&arrStation=%E9%92%A6%E5%B7%9E%E4%B8%9C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e927a20>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:28
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:97HTTPConnectionPool(host='115.208.68.80', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%89%E8%90%A5&arrStation=%E4%B8%B4%E6%B8%85&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10dacfef0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:97
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:61HTTPConnectionPool(host='115.220.6.156', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%B9%BF%E5%AE%81%E5%AF%BA%E5%8D%97&arrStation=%E4%B8%87%E5%8F%91%E5%B1%AF&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e89f160>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:61
+len(http_ok)=1	len(http_notok)=0
+
+线程name:65@@@@200
+sigleTest通过但线程网络请求出错线程name:35HTTPConnectionPool(host='112.195.100.113', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%B0%E4%B9%90%E9%95%87&arrStation=%E9%9B%B7%E5%B7%9E&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e8db6a0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:35
+len(http_ok)=2	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:11'data'
+
+the thread is over线程name:11
+len(http_ok)=1	len(http_notok)=0
+
+无效ip
+171.13.37.12:808
+线程name:9@@@@200
+sigleTest通过但线程网络请求出错线程name:30HTTPConnectionPool(host='114.99.14.49', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%A7%E5%B1%AF&arrStation=%E9%92%9F%E7%A5%A5&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x117f73898>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:30
+len(http_ok)=0	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:53HTTPConnectionPool(host='60.178.86.6', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%85%B4%E5%9B%BD&arrStation=%E9%BE%99%E7%88%AA%E6%B2%9F&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e85b748>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:53
+len(http_ok)=3	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:90HTTPConnectionPool(host='115.213.200.187', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A8%81%E6%B5%B7%E5%8C%97&arrStation=%E4%B8%9C%E8%BE%B9%E4%BA%95&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e9ffa20>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:90
+len(http_ok)=0	len(http_notok)=0
+
+线程name:86@@@@200
+线程name:86@@@@200
+线程name:86@@@@200
+sigleTest通过但线程网络请求出错线程name:86'data'
+
+the thread is over线程name:86
+len(http_ok)=29	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:42HTTPConnectionPool(host='119.7.226.89', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%BB%99%E6%B8%B8&arrStation=%E9%A9%AC%E9%9E%8D%E5%B1%B1&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10ea870f0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:42
+len(http_ok)=2	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:16'data'
+
+the thread is over线程name:16
+len(http_ok)=1	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:83HTTPConnectionPool(host='115.203.92.224', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%96%B0%E4%BF%9D%E5%AE%89&arrStation=%E4%B8%89%E5%8E%9F&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10dacfd30>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:83
+len(http_ok)=3	len(http_notok)=0
+
+线程name:66@@@@200
+sigleTest通过但线程网络请求出错线程name:66'data'
+
+the thread is over线程name:66
+len(http_ok)=10	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:71HTTPConnectionPool(host='110.189.222.190', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%96%B0%E5%8C%96&arrStation=%E9%B2%85%E9%B1%BC%E5%9C%88&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:71
+len(http_ok)=0	len(http_notok)=0
+
+无效ip
+114.99.6.125:808
+线程name:33@@@@200
+sigleTest通过但线程网络请求出错线程name:47HTTPConnectionPool(host='221.229.46.143', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A1%94%E6%B2%B3&arrStation=%E9%A9%AC%E5%85%B0&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x11730a978>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:47
+len(http_ok)=3	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:6HTTPConnectionPool(host='115.203.220.165', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%90%89%E8%88%92&arrStation=%E4%BA%9A%E5%B8%83%E5%8A%9B%E5%8D%97&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:6
+len(http_ok)=1	len(http_notok)=0
+
+线程name:21@@@@200
+sigleTest通过但线程网络请求出错线程name:92'data'
+
+the thread is over线程name:92
+len(http_ok)=8	len(http_notok)=0
+
+无效ip
+114.102.87.172:8998
+sigleTest通过但线程网络请求出错线程name:63HTTPConnectionPool(host='106.110.55.49', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%BC%8A%E6%8B%89%E5%93%88&arrStation=%E9%BB%8E%E5%A1%98&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e8bb278>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:63
+len(http_ok)=2	len(http_notok)=0
+
+无效ip
+114.99.95.86:808
+无效ip
+121.61.33.74:808
+无效ip
+183.32.233.73:808
+无效ip
+125.121.49.22:808
+sigleTest通过但线程网络请求出错线程name:14HTTPConnectionPool(host='115.203.79.177', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E4%B8%89%E5%8D%81%E5%AE%B6&arrStation=%E5%92%8B%E5%AD%90&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10b5a7978>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:14
+len(http_ok)=7	len(http_notok)=0
+
+无效ip
+222.95.19.170:808
+无效ip
+61.143.20.42:808
+sigleTest通过但线程网络请求出错线程name:62HTTPConnectionPool(host='49.69.229.64', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%AA%E5%B9%B3%E9%95%87&arrStation=%E9%BB%84%E6%B3%A5%E6%B2%B3&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10b1bbda0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:62
+len(http_ok)=5	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:54HTTPConnectionPool(host='115.215.71.76', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%9D%E9%B8%A1%E5%8D%97&arrStation=%E9%AB%98%E5%B9%B3&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+the thread is over线程name:54
+len(http_ok)=2	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:43HTTPConnectionPool(host='182.45.159.66', port=8889): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%9D%E6%B3%89%E5%B2%AD&arrStation=%E9%9D%99%E6%B5%B7&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e9277b8>: Failed to establish a new connection: [Errno 60] Operation timed out',)))
+
+the thread is over线程name:43
+len(http_ok)=0	len(http_notok)=0
+
+线程name:51@@@@200
+线程name:100@@@@200
+sigleTest通过但线程网络请求出错线程name:21HTTPConnectionPool(host='114.239.147.135', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%A7%E7%94%B0%E8%BE%B9&arrStation=%E7%A5%81%E4%B8%9C&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e896780>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:21
+len(http_ok)=6	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:65HTTPConnectionPool(host='114.99.92.35', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E6%9D%9C%E5%AE%B6&arrStation=%E4%B8%89%E5%85%B3%E5%8F%A3&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e8ceb00>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:65
+len(http_ok)=6	len(http_notok)=0
+
+线程name:33@@@@200
+无效ip
+60.178.87.215:808
+sigleTest通过但线程网络请求出错线程name:10'data'
+
+the thread is over线程name:10
+len(http_ok)=5	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:51HTTPConnectionPool(host='58.216.36.51', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%AE%8F%E5%BA%86&arrStation=%E9%BA%A6%E5%9B%AD&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x11730aef0>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:51
+len(http_ok)=32	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:98HTTPConnectionPool(host='106.110.157.72', port=808): Max retries exceeded with url: http://train.qunar.com/dict/open/s2s.do?callback=jQuery172031843804203989556_1495894108865&dptStation=%E5%A4%A7%E5%85%B6%E6%8B%89%E5%93%88&arrStation=%E4%B8%AD%E5%8D%AB&date=2017-07-26&type=normal&user=neibu&source=site&start=1&num=500&sort=3 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e9df208>: Failed to establish a new connection: [Errno 61] Connection refused',)))
+
+the thread is over线程name:98
+len(http_ok)=6	len(http_notok)=0
+
+sigleTest通过但线程网络请求出错线程name:34'data'
+
+the thread is over线程name:34
+len(http_ok)=37	len(http_notok)=0
+
+线程name:84@@@@200
